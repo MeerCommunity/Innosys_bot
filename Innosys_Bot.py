@@ -188,6 +188,6 @@ if __name__== '__main__':
         
 
 
-q_index
-chat_history
-df_try
+#q_index
+#chat_history
+#df_try
