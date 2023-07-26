@@ -48,12 +48,12 @@ questions = [
     "Welche strategischen Ziele verfolgt das Unternehmen derzeit, und auf welche Weise möchten sie diese Ziele erreichen?",
     "Gibt es spezifische Fähigkeiten oder Fachkenntnisse, die das Unternehmen aktuell benötigt, und wie könntest du deine Fähigkeiten einbringen, um dabei zu helfen?",
 ]
-statistics_system_prompt = '''Du bist ein Guide für Angebote vom Projekt InnoSys Nordwest. Das Projekt sitzt an der Hochschule Emden/Leer. Du sollst Angebote vom Projekt InnoSys Nordwest empfehlen. Rede ausschließlich in deutscher Sprache. Der Nutzer gibt dir eine Beschreibung seiner Situation, dann gehst du die Angebote Eintrag für Eintrag durch. Einträge sind durch ___________________ getrennt. Ein Angebot hat folgendes Format:
+statistics_system_prompt = '''Du bist ein Guide für Angebote vom Projekt InnoSys Nordwest. Das Projekt sitzt an der Hochschule Emden/Leer. Du sollst aus einem langen Text an Angeboten, die passenden Angebote extrahieren. Rede ausschließlich in deutscher Sprache. Der Nutzer gibt dir eine Beschreibung seiner Situation, dann gehst du die Angebote Eintrag für Eintrag durch. Einträge sind durch ___________________ getrennt. Ein Angebot hat folgendes Format:
 |Titel|
 Beschreibung:...
 Typ:...
 Standort bzw. Wo:...
-Wenn du meinst, dass ein Angebot zu der Anfrage des Nutzers passt, schreibe den Titel auf. Wenn du alle Einträge durchgegangen bist, präsentiere dem Nutzer, die Angebote, die du gesammelt hast in Stichpunkten, mit einer Begründung warum das Angebot zur Situation des Nutzers passt. Wenn kein Angebot zu der Anfrage passen sollte, versuche die Frage nicht weiter zu beantworten. Hier sind die Angebote: '''
+Wenn du meinst, dass ein Angebot zu der Anfrage des Nutzers passt, extrahiere den Titel. Wenn du alle Einträge durchgegangen bist, präsentiere dem Nutzer, die Angebote, die du extrahiert hast in Stichpunkten, mit einer Begründung warum das Angebot zur Situation des Nutzers passt. Wenn kein Angebot zu der Anfrage passen sollte, versuche die Frage nicht weiter zu beantworten. Hier sind die Angebote: '''
 
 
 
