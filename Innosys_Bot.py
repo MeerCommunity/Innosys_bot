@@ -192,6 +192,8 @@ Wenn du meinst, dass ein Angebot zu meiner Beschreibung passt, extrahiere den Ti
     return ai_response
 
 def narrowing_it_down(query, text):
+    print("BEschreibung: " + query)
+    print("Referenz: " + text)
     #answer_list = []
     #for reference in references:
         #tokens = len(tokenizer.encode(reference))
