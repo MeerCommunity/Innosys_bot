@@ -174,7 +174,7 @@ Wenn du meinst, dass ein Angebot zu meiner Beschreibung passt, extrahiere den Ti
     disclaimer = "WICHTIG: Beziehe dich ausschließlich auf die Angebote bei der Beantwortung der Fragen."
     messages = [
         {"role": "system", "content": initial_prompt },
-        {"role": "user", "content": "Gib mir basierend auf dieser Beschreibung: {query} Die passenden Angebote aus dem folgenden Text: {text}"}
+        {"role": "user", "content": f"Gib mir basierend auf dieser Beschreibung: {query} Die passenden Angebote aus dem folgenden Text: {text}"}
     ]
 
     chat = openai.ChatCompletion.create(
