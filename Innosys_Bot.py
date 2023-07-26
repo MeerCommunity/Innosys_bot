@@ -22,6 +22,7 @@ openai.api_key = st.secrets["api_key"]
 
 #st.session_state["chat_history"] = []
 chat_history = st.session_state.get("chat_history", [])
+user_input_saved = st.session_state.get("user_input_saved", [])
 #global q_index
 
 
@@ -193,15 +194,17 @@ if __name__== '__main__':
 	    alle_angebote = (str(content))
     #st.write(alle_angebote)
     #chat_history.append(welcome_msg + questions[q_index])
-    user_input_list = list()
+    #user_input_list = list()
     user_input = coly_bot.text_input("Eingabe:")
     send_button = coly_bot.button("Send")
 
     if send_button and q_index == 3:
-        user_input_list.append(user_input)
+        user_input_saved.append(user_input)
         user_input_str = ' '.join(user_input_list)
         chat_history.append(user_input)
         st.session_state["chat_history"] = chat_history
+	st.session_state["user_input_saved"] = user_input_saved
+	user_input_str = ' '.join(user_input_saved)
         #st.write(generate_answer())
         #result = generate_answer()
         #result = turn_to_statements()
@@ -215,7 +218,7 @@ if __name__== '__main__':
             #chat_message_style(chat)
 
     if send_button and q_index <= 2:
-        user_input_list.append(user_input)
+        user_input_saved.append(user_input)
         chat_history.append(user_input)
         chat_history.append(questions[q_index])
         
@@ -223,7 +226,7 @@ if __name__== '__main__':
         q_index += 1
 	
         st.session_state["q_index"] = q_index  # aktualisierten Wert im Session State speichern
-            
+        st.session_state["user_input_saved"] = user_input_saved
         st.session_state["chat_history"] = chat_history
         for chat in chat_history:
             chat_message_style(chat)
