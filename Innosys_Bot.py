@@ -223,7 +223,7 @@ if __name__== '__main__':
 
 
   
-    if send_button and q_index == 2:
+    if send_button and q_index == 0:
         #st.write("Done!")
         chat_history.insert(0, questions[0])
         #for chat in chat_history:
