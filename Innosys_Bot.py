@@ -47,13 +47,12 @@ questions = [
     "Welche strategischen Ziele verfolgt das Unternehmen derzeit, und auf welche Weise möchten sie diese Ziele erreichen?",
     "Gibt es spezifische Fähigkeiten oder Fachkenntnisse, die das Unternehmen aktuell benötigt, und wie könntest du deine Fähigkeiten einbringen, um dabei zu helfen?",
 ]
-statistics_system_prompt = '''Du bist ein Guide für Angebote vom Projekt InnoSys Nordwest. Das Projekt sitzt an der Hochschule Emden/Leer. Du sollst Angebote vom Projekt InnoSys Nordwest empfehlen. Rede ausschließlich in deutscher Sprache. Du gehst die Angebote Eintrag für Eintrag durch. Einträge sind durch ___________________ getrennt. Ein Angebot hat folgendes Format:
+statistics_system_prompt = '''Du bist ein Guide für Angebote vom Projekt InnoSys Nordwest. Das Projekt sitzt an der Hochschule Emden/Leer. Du sollst Angebote vom Projekt InnoSys Nordwest empfehlen. Rede ausschließlich in deutscher Sprache. Der Nutzer gibt dir eine Beschreibung seiner Situation, dann gehst du die Angebote Eintrag für Eintrag durch. Einträge sind durch ___________________ getrennt. Ein Angebot hat folgendes Format:
 |Titel|
 Beschreibung:...
 Typ:...
 Standort bzw. Wo:...
-'''
-#"Wenn du meinst, dass ein Angebot zu der Anfrage des Nutzers passt, schreibe es auf inklusive der Beschreibung. Wenn kein Angebot zu der Anfrage passen sollte, versuche die Frage nicht weiter zu beantworten. Hier sind die Angebote: "
+Wenn du meinst, dass ein Angebot zu der Anfrage des Nutzers passt, schreibe den Titel auf. Wenn du alle Einträge durchgegangen bist, präsentiere dem Nutzer, die Angebote, die du gesammelt hast in Stichpunkten, mit einer Begründung warum das Angebot zur Situation des Nutzers passt. Wenn kein Angebot zu der Anfrage passen sollte, versuche die Frage nicht weiter zu beantworten. Hier sind die Angebote: '''
 
 
 
@@ -158,8 +157,8 @@ def ask_question(query, angebote):
         #print(tokens)
     add_to_user_query = "Hier sind alle Angebote von Innosys Nordwest: " + angebote + "Welche Angebote passen zu mir, basierend auf der folgenden Beschreibung: "
     messages = [
-        {"role": "system", "content": f"{statistics_system_prompt} . Beziehe dich ausschließlich auf die Angebote bei der Beantwortung der Fragen. Wenn du Angebote findest schreibe sie in Stichpunkten auf und erwähne immer den Titel indem du es in diesem Stil kennzeichnest |...|. Die drei Punkte repräsentieren das jeweilige Label."},
-        {"role": "user", "content":  add_to_user_query + query}
+        {"role": "system", "content": f"{statistics_system_prompt} {angebote} . WICHTIG: Beziehe dich ausschließlich auf die Angebote bei der Beantwortung der Fragen. Wenn du Angebote findest schreibe sie in Stichpunkten auf und erwähne immer den Titel indem du es in diesem Stil kennzeichnest |...|. Die drei Punkte repräsentieren den jeweiligen Titel."},
+        {"role": "user", "content":  query}
     ]
 
     chat = openai.ChatCompletion.create(
@@ -192,7 +191,7 @@ if __name__== '__main__':
     with open('Angebote.txt', 'r', encoding='utf-8') as file:
 	    content = file.read()
 	    alle_angebote = (str(content))
-    st.write(alle_angebote)
+    #st.write(alle_angebote)
     #chat_history.append(welcome_msg + questions[q_index])
     user_input_list = list()
     user_input = coly_bot.text_input("Eingabe:")
