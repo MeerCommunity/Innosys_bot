@@ -192,6 +192,7 @@ if __name__== '__main__':
     with open('Angebote.txt', 'r', encoding='utf-8') as file:
 	    content = file.read()
 	    alle_angebote = (str(content))
+    st.write(alle_angebote)
     #chat_history.append(welcome_msg + questions[q_index])
     user_input_list = list()
     user_input = coly_bot.text_input("Eingabe:")
