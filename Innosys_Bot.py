@@ -41,7 +41,22 @@ colx_bot, coly_bot, colz_bot = st.columns([1 ,4,1])
 ai_response = ""
 ai_question = ""
 
-questions = ["Was hat Sie dazu bewegt, Ihr Unternehmen zu gründen?",    "Welche Produkte oder Dienstleistungen bietet Ihr Unternehmen an?",    "Welche Zielgruppe sprechen Sie mit Ihrem Angebot an?",    "Was unterscheidet Ihr Unternehmen von anderen in der Branche?",    "Welche Ziele hat Ihr Unternehmen für die nächsten fünf Jahre?"]   #h Ihr Unternehmen seit der Gründung entwickelt?",    "Welche Herausforderungen mussten Sie auf dem Weg zum Erfolg meistern?",    "Wie sieht Ihr Geschäftsmodell aus?",    "Wie hoch ist der Umsatz Ihres Unternehmens?",    "Wie viele Mitarbeiter hat Ihr Unternehmen?",    "Wie wichtig ist Ihnen eine gute Unternehmenskultur?",    "Welche Marketingstrategien nutzen Sie, um Ihr Unternehmen bekannt zu machen?",    "Wie gehen Sie mit Kundenbeschwerden um?",    "Welche Rolle spielen Innovationen in Ihrem Unternehmen?",    "Wie wichtig ist Ihnen Nachhaltigkeit in Ihrem Unternehmen?",    "Wie sichern Sie die Qualität Ihrer Produkte oder Dienstleistungen?",    "Wie wichtig sind Ihnen Kundenfeedback und Kundenbindung?",    "Welche Rolle spielen Social Media und Online-Marketing in Ihrem Unternehmen?",    "Welche Vision haben Sie für Ihr Unternehmen?",    "Wie planen Sie, Ihr Unternehmen in Zukunft zu erweitern?"]
+#questions = ["Was hat Sie dazu bewegt, Ihr Unternehmen zu gründen?",    "Welche Produkte oder Dienstleistungen bietet Ihr Unternehmen an?",    "Welche Zielgruppe sprechen Sie mit Ihrem Angebot an?",    "Was unterscheidet Ihr Unternehmen von anderen in der Branche?",    "Welche Ziele hat Ihr Unternehmen für die nächsten fünf Jahre?"]   #h Ihr Unternehmen seit der Gründung entwickelt?",    "Welche Herausforderungen mussten Sie auf dem Weg zum Erfolg meistern?",    "Wie sieht Ihr Geschäftsmodell aus?",    "Wie hoch ist der Umsatz Ihres Unternehmens?",    "Wie viele Mitarbeiter hat Ihr Unternehmen?",    "Wie wichtig ist Ihnen eine gute Unternehmenskultur?",    "Welche Marketingstrategien nutzen Sie, um Ihr Unternehmen bekannt zu machen?",    "Wie gehen Sie mit Kundenbeschwerden um?",    "Welche Rolle spielen Innovationen in Ihrem Unternehmen?",    "Wie wichtig ist Ihnen Nachhaltigkeit in Ihrem Unternehmen?",    "Wie sichern Sie die Qualität Ihrer Produkte oder Dienstleistungen?",    "Wie wichtig sind Ihnen Kundenfeedback und Kundenbindung?",    "Welche Rolle spielen Social Media und Online-Marketing in Ihrem Unternehmen?",    "Welche Vision haben Sie für Ihr Unternehmen?",    "Wie planen Sie, Ihr Unternehmen in Zukunft zu erweitern?"]
+questions = [
+    "Welche aktuellen Herausforderungen sieht das Unternehmen, und wo könnten externe Unterstützung oder zusätzliche Ressourcen von Vorteil sein?",
+    "Welche strategischen Ziele verfolgt das Unternehmen derzeit, und auf welche Weise möchten sie diese Ziele erreichen?",
+    "Gibt es spezifische Fähigkeiten oder Fachkenntnisse, die das Unternehmen aktuell benötigt, und wie könntest du deine Fähigkeiten einbringen, um dabei zu helfen?",
+    "Gibt es Bereiche, in denen das Unternehmen neue Ideen oder Initiativen entwickeln möchte? Wie könntest du möglicherweise dazu beitragen?",
+    "Gibt es derzeit Projekte oder Aufgaben, bei denen du deine Unterstützung anbieten könntest, um dem Unternehmen voranzuhelfen?"
+]
+statistics_system_prompt = '''Du bist ein Guide für Angebote vom Projekt InnoSys Nordwest. Das Projekt sitzt an der Hochschule Emden/Leer. Du sollst Angebote vom Projekt InnoSys Nordwest empfehlen. Rede ausschließlich in deutscher Sprache. Du gehst die Angebote Eintrag für Eintrag durch. Einträge sind durch ___________________ getrennt. Ein Angebot hat folgendes Format:
+|Titel|
+Beschreibung:...
+Typ:...
+Standort bzw. Wo:...
+
+Wenn du meinst, dass ein Angebot zu der Anfrage des Nutzers passt, schreibe es auf inklusive der Beschreibung. Wenn keine Informationen zu der Anfrage im Text sind, versuche die Frage nicht weiter zu beantworten. Hier sind die Angebote: '''
+
 statements = ["Ich habe mein Unternehmen gegründet, weil: ", "Mein Unternehmen bietet folgende Produkte oder Dienstleistungen an: ", "Ich spreche mit meinem Angebot folgende Zielgruppe an: ", "Mein Unternehmen unterscheidet sich von anderen in der Branche durch: ", "Meine Ziele für die nächsten fünf Jahre sind: "]
 welcome_msg = "Hallo! Ich bin der Innosys Bot, der Ihnen dabei helfen wird, die passendsten Angebote für Ihr Unternehmen und die Herausforderungen der Branche zu finden. Beantworten Sie einfach meine Fragen. Desto genauer Sie antworten, desto besser werden meine Vorschäge sein. "
 
