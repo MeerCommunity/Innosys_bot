@@ -193,7 +193,7 @@ if __name__== '__main__':
     user_input = coly_bot.text_input("Eingabe:")
     send_button = coly_bot.button("Send")
 
-    if send_button and q_index == 5:
+    if send_button and q_index == 3:
         user_input_list.append(user_input)
         user_input_str = ' '.join(user_input_list)
         chat_history.append(user_input)
@@ -207,7 +207,7 @@ if __name__== '__main__':
         #for chat in chat_history:
             #chat_message_style(chat)
 
-    if send_button and q_index <= 4:
+    if send_button and q_index <= 0:
         user_input_list.append(user_input)
         chat_history.append(user_input)
         chat_history.append(questions[q_index])
