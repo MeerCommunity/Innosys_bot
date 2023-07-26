@@ -226,7 +226,7 @@ Wenn du meinst, dass ein Angebot zu meiner Beschreibung passt, extrahiere den Ti
 
     disclaimer = "WICHTIG: Beziehe dich ausschließlich auf die Angebote bei der Beantwortung der Fragen."
     messages = [
-        {"role": "system", "content": f"{statistics_system_prompt}Referenzen: {reference}Beziehe dich ausschließlich auf die Referenzen bei der Beantwortung der Fragen. Wenn du Angebote findest schreibe sie in Stichpunkten auf und erwähne immer den Titel indem du ihn in diesem Stil kennzeichnest |...|. Die drei Punkte repräsentieren den jeweiligen Titel."},
+        {"role": "system", "content": f"{statistics_system_prompt}Referenzen: {angebote} Beziehe dich ausschließlich auf die Referenzen bei der Beantwortung der Fragen. Wenn du Angebote findest schreibe sie in Stichpunkten auf und erwähne immer den Titel indem du ihn in diesem Stil kennzeichnest |...|. Die drei Punkte repräsentieren den jeweiligen Titel."},
         {"role": "user", "content":  query }
 	#{"role": "user", "content":  statistics_user_prompt + query + "Hier ist der Text 'Angebote': "+ angebote + disclaimer }
     ]
