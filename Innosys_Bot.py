@@ -29,8 +29,6 @@ messages = [
     {"role": "system", "content": ""},
 ]
 
-path = "C:\\Users\\Labor\\"
-
 #Erstelle einen Datframe mit Inhalten und den dazugehörigen Embeddings
 df_try =pd.read_csv('df_InnoSys_Angebote_lang.csv')
 all_embeddings = np.load('embeddings_InnoSys_Angebote_lang.npy', allow_pickle=True)
@@ -114,7 +112,6 @@ def turn_to_statements(history = chat_history):
     return new_history
 
 def generate_answer():
-    
     user_responses = "Hier sind die Eingaben des Nutzers:" + str(turn_to_statements)
     initial_prompt = "Du bist ein Guide für die Angebote von InnoSys Nordwest. Du sollst basierend auf den Eingaben des Nutzers, herausfinden von welchen Angeboten der Nutzer am meisten profitiert. Schlage dem Nutzer drei Angebote vor und gib eine Begründung."
     #Greife den Eintrag ab, der am meisten Änhlichkeit mit der Frage hat
@@ -138,6 +135,31 @@ def generate_answer():
     output = ai_response
     return output
 
+def ask_question(query, angebote):
+    #answer_list = []
+    #for reference in references:
+        #tokens = len(tokenizer.encode(reference))
+        #print(tokens)
+    messages = [
+        {"role": "system", "content": f"{statistics_system_prompt} {angebote}. Beziehe dich ausschließlich auf die Angebote bei der Beantwortung der Fragen. Wenn du Angebote findest schreibe sie in Stichpunkten auf und erwähne immer den Titel indem du es in diesem Stil kennzeichnest |...|. Die drei Punkte repräsentieren das jeweilige Label."},
+        {"role": "user", "content":  query}
+    ]
+
+    chat = openai.ChatCompletion.create(
+        model="gpt-3.5-turbo-16k",
+        messages=messages,
+        temperature=0.2
+    )
+
+    ai_response = chat.choices[0].message.content
+    #answer_list.append("Antwort: " + ai_response)
+    print("Hier ist die Antwort: ")
+    print(ai_response)
+    print("\n")
+    print("________________")
+
+    #return answer_list
+    return ai_response
 
 q_index = st.session_state.get("q_index", 1)
 
@@ -149,22 +171,31 @@ chat_message_first(questions[0])
 #chat_message_style(questions[q_index])
 #chat_history.append(questions[0])
 if __name__== '__main__':
+    #Get the content
+    with open('Angebote.txt', 'r', encoding='utf-8') as file:
+	    content = file.read()
+	    alle_angebote = (str(content))
     #chat_history.append(welcome_msg + questions[q_index])
-
+    user_input_list = list()
     user_input = coly_bot.text_input("Eingabe:")
     send_button = coly_bot.button("Send")
 
     if send_button and q_index == 5:
+        user_input_list.append(user_input)
+        user_input_str = ' '.join(user_input_list)
         chat_history.append(user_input)
         st.session_state["chat_history"] = chat_history
         #st.write(generate_answer())
-        result = generate_answer()
+        #result = generate_answer()
         #result = turn_to_statements()
+        result = ask_question(user_input_str, alle_angebote)
         st.write(result)
+        user_input_list = list()
         #for chat in chat_history:
             #chat_message_style(chat)
 
     if send_button and q_index <= 4:
+        user_input_list.append(user_input)
         chat_history.append(user_input)
         chat_history.append(questions[q_index])
         
