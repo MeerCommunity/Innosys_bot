@@ -210,6 +210,13 @@ Wenn du meinst, dass ein Angebot zu meiner Beschreibung passt, extrahiere den Ti
     #return answer_list
     return ai_response
 
+def find_and_append(values = values, possible_values = possible_values):
+    final = list()
+    for item in values:
+        if item in possible_values:
+            final.append(item)
+    return final
+
 def ask_question(query, angebote):
     #answer_list = []
     #for reference in references:
@@ -245,9 +252,9 @@ Wenn du meinst, dass ein Angebot zu meiner Beschreibung passt, extrahiere den Ti
     print("________________")
 
     #return answer_list
-    summary_response = generate_summary(query, ai_response)
+    #summary_response = generate_summary(query, ai_response)
     #final_response = narrowing_it_down(query, ai_response)
-    return ai_response, summary_response
+    return ai_response #summary_response
 
 q_index = st.session_state.get("q_index", 1)
 
@@ -263,6 +270,7 @@ if __name__== '__main__':
     with open('Angebote.txt', 'r', encoding='utf-8') as file:
 	    content = file.read()
 	    alle_angebote = (str(content))
+    possible_values = re.findall(r'\|([^|]+)\|', alle_angebote)
     #st.write(alle_angebote)
     #chat_history.append(welcome_msg + questions[q_index])
     #user_input_list = list()
@@ -279,13 +287,21 @@ if __name__== '__main__':
         #st.write(generate_answer())
         #result = generate_answer()
         #result = turn_to_statements()
-        result, final = ask_question(user_input_str, alle_angebote)
+        result = ask_question(user_input_str, alle_angebote)
+        values = re.findall(r'\|([^|]+)\|', result)
 	#st.write(result_msg)
 	#st.write(user_input_str)
 	#st.write("Dies sind meine Vorschläge für Sie: ")
-        st.write(result_msg + user_input_str + "\n\n Dies sind meine Vorschläge für Sie: \n" + result)
-        #final = narrowing_it_down(user_input_str, result)
-        st.write("Die finale Antwort \n" + final)
+        list_of_entries = find_and_append()
+        if len(list_of_entries) = 0:
+		print("Ich konnte keine passenden Anngebote finden")
+		user_input_list = list()
+		return
+	else:
+		
+            st.write(result_msg + user_input_str + "\n\n Dies sind meine Vorschläge für Sie: \n" + result)
+            #final = narrowing_it_down(user_input_str, result)
+            st.write("Die finale Antwort \n" + final)
         user_input_list = list()
         #for chat in chat_history:
             #chat_message_style(chat)
