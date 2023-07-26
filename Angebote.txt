@@ -1,0 +1,809 @@
+
+|3. InnosysCongress - SAVE THE DATE - Energieeinsparungen für KMU|
+Beschreibung: Hier gibt es alle Infos rund um den 3. InnosysCongress am 22. Juni 2023, 15 Uhr, im CORE in Oldenburg.
+Typ: Veranstaltung
+Wo: CORE Oldenburg, Heiligengeiststraße 6-8, 26121 Oldenburg
+__________________________
+
+|3D-Druck / Additive Fertigung|
+Beschreibung: Wir beraten Sie gern zu sämtlichen Fragen rund um das Thema 3D-Druck / Additive Fertigung.
+Typ: Beratung
+Standort: Emden
+__________________________
+|3D-Drucker Fortus MC250|
+Beschreibung: Individuelle additive Fertigung von unterschiedlichen Kunststoffen mit herauswaschbarer Stützstruktur.
+Typ: Gerät
+Standort: Wilhelmshaven
+__________________________
+|3D-Drucker Ultimaker 3|
+Beschreibung: Der Ultimaker 3 ist ein flexibel einsetzbarer 3D-Drucker, der das Schmelzschichtungsverfahren (Fused Deposition Modeling/FDM) verwendet. Er ist Teil der Test- und Integrationsplattform Industrie 4.0 am OFFIS.
+Typ: Gerät
+Standort: Oldenburg
+__________________________
+|3D-Handscanner - Creaform Go!SCAN SPARK|
+Beschreibung: Tragbarer 3D-Handscanner zur hochauflösenden, texturierten 3D-Rekonstruktion.
+Typ: Gerät
+Standort: Oldenburg
+__________________________
+|5G-Campus-Netz|
+Beschreibung: Die Hochschule Emden/Leer betreibt ein 5G-Campus-Netz zum Anfassen, das interessierten Einrichtungen demonstriert werden kann.
+Typ: Labor
+Standort: Emden
+__________________________
+|Abbe-Refraktometer|
+Beschreibung: Refraktometer zur Bestimmung von Brechungsindizes von festen und flüssigen Proben mit Hilfe des Durchlicht- und Auflichtverfahrens.
+Typ: Gerät
+Standort: Wilhelmshaven
+__________________________
+|Agile Software-Entwicklung – Scrum und Kanban / Erste Schritte für die praktische Umsetzung|
+Beschreibung: Agile Methoden betreffen heutzutage alle Unternehmen - auch im Software-Bereich. In dieser Schulung werden zunächst unterschiedliche agile Methoden vorgestellt und zugehörige Mindsets behandelt. Anschließend werden anhand der Wünsche und Beispiele der Teilnehmenden konkrete Szenarien erarbeitet.
+Typ: Schulung
+Wo: Emden / nach Absprache
+Wann: Nach Absprache
+__________________________
+|Agiles Management, Agiles Mindset, Agile Tools - Beratung|
+Beschreibung: Elemente des agilen Projektmanagements können in jeder Organisationsebene helfen, den beständigen Wandel und damit einhergehende Unsicherheiten zu meistern. Mit den passenden Tools und der entsprechenden Haltung („Mindset“) gelingt der Wechsel vom passiven Re-agieren zum aktiven (agilen) Handeln.
+Typ: Beratung
+Standort: Emden
+__________________________
+|Agiles Management, Agiles Mindset, Agile Tools - Workshop|
+Beschreibung: Elemente des agilen Projektmanagements können in jeder Organisationsebene helfen, den beständigen Wandel und damit einhergehende Unsicherheiten zu meistern. Mit den passenden Tools und der entsprechenden Haltung („Mindset“) gelingt der Wechsel vom passiven Re-agieren zum aktiven (agilen) Handeln.
+Typ: Schulung
+Wo: Emden
+Wann: Nach Absprache
+__________________________
+|Analysensiebmaschine für Metallpulver|
+Beschreibung: Analysensiebmaschinen werden verwendet, um die Korngrößenverteilung pulverartiger Werkstoffe zu ermitteln. Die vorliegende Maschine, Haver EML 200 Premium, wird insbesondere verwendet, um Pulver für das Laserpulverauftragsschweißen zu analysieren oder kleine Chargen mit definierten Pulverfraktionen
+Typ: Gerät
+Standort: Wilhelmshaven
+__________________________
+|Anwender für kollaborierende Robotik|
+Beschreibung: Die Schulung richtet sich an FacharbeiterInnen und Auszubildende. Hier erlernen die TeilnehmerInnen die Grundlagen der Robotik, die Arbeit und Programmierung von kollaborierenden Robotern anhand eines Franka Emika Pandas und die Integration eines solchen Roboters in den Betrieb.
+Typ: Schulung
+Wo: Jade Hochschule Wilhelmshaven
+Wann: Auf Anfrage
+__________________________
+|Anwenderzentrum Logistik #LivingLab|
+Beschreibung: Das Anwenderzentrum für Logistik stellt ein Reallabor dar, in der die aktuellen Trends und Technologien in der Logistik demonstriert werden.
+Typ: Labor
+Standort: Emden
+__________________________
+|Audiolabor am Fraunhofer-Institut für Digitale Medientechnologie IDMT|
+Beschreibung: Für elektroakustische Messungen, Körperschallmessungen sowie Audioaufnahmen bietet das Audiolabor am Fraunhofer IDMT-HSA eine optimale Umgebung. Hier können Produkte unter Alltagsbedingungen vermessen und untersucht werden.
+Typ: Labor
+Standort: Oldenburg
+__________________________
+|Audiologielabor|
+Beschreibung: Das Audiologielabor besteht aus zwei Räumen mit je einer großen und einer kleinen Audiometriekabine für audiologische und psychoakustische Messungen mit Kopfhörern oder im Freifeld.
+Typ: Labor
+Standort: Oldenburg
+__________________________
+|Baustoffprüflabor|
+Beschreibung: Das Baustoffprüflabor ist am Institut für Materialprüfung der Jade Hochschule Oldenburg angesiedelt. Schwerpunkte der Tätigkeiten bilden die physikalischen und mechanischen Untersuchungen von Bindemitteln, Mauersteinen und Betonwaren, einschließlich Transportbetonen
+Typ: Labor
+Standort: Oldenburg
+__________________________
+|Bearbeitung von Problemstellungen in Workshops (Design Thinking, Prototyping)|
+Beschreibung: Unternehmen aufgepasst: Wir bieten Ihnen die Möglichkeit, Problem- und Fragestellungen aus Ihrem Unternehmen gemeinsam mit Studierenden zu bearbeiten.
+Typ: Beratung
+Standort: Emden
+__________________________
+|Büroorganisation effizient gestalten - Lean Office|
+Beschreibung: Wir unterstützen Sie dabei, ihre Verwaltungsprozesse im Büro effizienter zu gestalten. Mehrere Themen stehen zur Auswahl!
+Typ: Beratung
+Standort: Emden
+__________________________
+|CAx Labor|
+Beschreibung: Das CAx Labor bildet die Themen der Informationstechnologie in der Produktentwicklung ab. Im Fokus stehen dabei die Computer Aided Design Methoden (CAD) und aktuelle Produktentwicklungsstrategien. Die Simulation und Berechnungen von virtuellen Produkten (CAE oder auch CAx) ist ebenfalls möglich.
+Typ: Labor
+Standort: Wilhelmshaven
+__________________________
+|CO²-Laser Trotec SP1500|
+Beschreibung: Individuelle Laserbearbeitung
+Typ: Gerät
+Standort: Wilhelmshaven
+__________________________
+
+|Change Management-Workshop: Den Unternehmenswandel erfolgreich gestalten|
+Beschreibung: Veränderungsprozesse gehören zum Alltag jeder Organisation. Dennoch haben viele Change-Prozesse nicht den gewünschten Erfolg. Warum ist das so? In diesem Workshop lernen Sie Werkzeuge und Methoden für ein erfolgreiches Change-Management kennen.
+Typ: Schulung
+Wo: Nach Absprache
+__________________________
+|Chemielabor|
+Beschreibung: Das Chemielabor ist am Institut für Materialprüfung der Jade Hochschule Oldenburg angesiedelt und wird zusammen mit dem Baustoffprüflabor betrieben.
+Typ: Labor
+Standort: Oldenburg
+__________________________
+|Chemielabor|
+Beschreibung: Das Chemielabor (nicht akkreditiert!) bietet diverse Möglichkeiten der Umweltanalytik, Wasseranalytik, Bodenuntersuchung, Materialidentifikation.
+Typ: Labor
+Standort: Wilhelmshaven
+__________________________
+|DMG Mori DMU 50 Universalfräsmaschine|
+Beschreibung: DMG Mori DMU 50 Universalfräsmaschine zur Bearbeitung von Aluminium Bauteilen.
+Typ: Gerät
+Standort: Wilhelmshaven
+__________________________
+|Digital Hub Ostfriesland – Fachgruppen für IT-Sicherheit, Industrie 4.0/Internet of Things, KI/Data-Science und Visualisierung/VR-AR|
+Beschreibung: Der Digital Hub Ostfriesland stellt Ihnen Angebote seiner vier Fachgruppen zur Verfügung: IT-Sicherheit, Industrie 4.0/IoT, KI/Data-Science und Visualisierung/VR-AR. Neben Beratungen und Workshops bieten wir Ihnen das erforderliche Wissen in Form von Best Practices, FAQs und Leitfäden an.
+Typ: Beratung
+Standort: Leer
+__________________________
+|Digitale Fabrik der Hochschule Emden/Leer|
+Beschreibung: Die Digitale Fabrik ist die Projekt- und Forschungsplattform der Abteilung Elektrotechnik & Informatik des Fachbereichs Technik der Hochschule Emden/Leer. An ihr werden unterschiedliche Technologien und Konzepte aus dem Themenfeld „Industrie 4.0“ erforscht, erprobt und demonstriert.
+Typ: Labor
+Standort: Emden
+__________________________
+|Digitale Transformation/ Digitale Geschäftsmodelle entwickeln - Workshop|
+Beschreibung: In dieser Schulung wird die (Weiter-) Entwicklung digitaler Geschäftsmodelle vermittelt.
+Typ: Schulung
+Wo: Emden
+__________________________
+|Digitalisierung Ihrer Daten und Prozesse|
+Beschreibung: Wir unterstützen Sie bei der intelligenten Digitalisierung Ihrer Daten und Prozesse.
+Typ: Beratung
+Standort: Emden
+__________________________
+|Diodenlaser für das Laserpulverauftragschweißen|
+Beschreibung: Anlage zum Laserpulverauftragschweißen, auch Laser Cladding oder Direct Metal Deposition (DMD) genannt.
+Typ: Gerät
+Standort: Wilhelmshaven
+__________________________
+|Drehmaschine VDF Modell M530|
+Beschreibung: Drehmaschine zum Drehen von Stahlbauteilen.
+Typ: Gerät
+Standort: Wilhelmshaven
+__________________________
+
+|Drehmaschine Weiler Condor VC Plus|
+Beschreibung: Die Präzisions-Drehmaschine Weiler Condor VC Plus ist Teil der IHJO Innovation(s)Werkstatt in Oldenburg und wird dort zum Prototypenbau eingesetzt.
+Typ: Gerät
+Standort: Oldenburg
+__________________________
+|ECOSense|
+Beschreibung: ECOSense hatte die Entwicklung einer Fahrradsensorik sowie den Einsatz dieser unter entsprechender aktiver Bürgerbeteiligung zum Ziel. Die resultierenden Daten zum Zustand der Fahrradinfrastruktur sowie zur Fahrradnutzung können für den weiteren Ausbau des Radverkehrs nutzbar gemacht werden.
+Typ: Beratung
+Standort: Oldenburg
+__________________________
+|Einführungsprojekte Logistik & Industrie 4.0|
+Beschreibung: Gemeinsam bereiten wir Pilotprojekte in Bereichen der Produktion und Logistik vor und führen diese mit Ihnen durch.
+Typ: Beratung
+Standort: Emden
+__________________________
+|Elektronenmikroskopie Serviceeinheit|
+Beschreibung: Mit der Elektronenmikroskopie lassen sich Strukturen bis in den Nanometerbereich visualisieren. Die Elektronenmikroskopie Serviceeinheit der Universität Oldenburg ermöglicht Ihnen die Nutzung von Raster- und Transmissionselektronenmikroskopen.
+Typ: Labor
+Standort: Oldenburg
+__________________________
+|Erstellung von Simulationsmodellen|
+Beschreibung: Wir bieten Ihnen die Erstellung von Simulationen beliebiger Prozesse Ihres Unternehmens an.
+Typ: Beratung
+Standort: Emden
+__________________________
+|Evolutionäre Unternehmen, Purpose im Business, New Work|
+Beschreibung: Von der Standortbestimmung bis zur Einführung einzelner Elemente zu evolutionären Unternehmen - Purpose-Unternehmen, Purpose-Driven-Leadership, Führen auf Augenhöhe, Dialogorientierung im Mitarbeitendengespräch, Generation X, Work Life Balance und und und...
+Typ: Beratung
+Standort: Emden
+__________________________
+|Experimentierfeld „DigiSchwein“ - Cross Innovation und Digitalisierung in der tiergerechten Schweinehaltung unter Berücksichtigung des Ressourcenschutzes|
+Beschreibung: Das Projekt DigiSchwein entwickelt ein sensorbasiertes Frühwarnsystem, das in der Praxis das Tierwohl fördern, die Betriebsmitteleffizienz steigern und die Umwelt durch Nährstoffreduktion schonen soll. Durch Zusammenführen moderner Technologien wird eine nachhaltige Landwirtschaft weiter ausgebaut.
+Typ: Labor
+Standort: Bad Zwischenahn-Wehnen
+__________________________
+|FTIR-Spektrometer|
+Beschreibung: Das FTIR (Fourier-Transform-Spektrometer) ist ein Gerät, das IR-Spektren erfasst und dadurch qualitative Materialuntersuchung erlaubt.
+Typ: Gerät
+Standort: Wilhelmshaven
+__________________________
+|Fabrikationslabor (FabLab) / Labor für studentische Projekte mit Unternehmen der Region|
+Beschreibung: Das FabLab (FabrikationsLabor) stellt eine Arbeitsumgebung zur Verfügung in der Projekte umgesetzt werden können. Vom Prototypenbau bis zur Umsetzung komplexerer Projekte, wie dem Bau einer Solaranlage gemeinsam mit einer Schule in Gambia, setzten wir gemeinsam Ideen in die Tat um.
+Typ: Labor
+Standort: Emden
+__________________________
+|Fanuc CR-7iA/L|
+Beschreibung: Der Fanuc CR-7iA/L, kollaborativer Industrieroboter. Sechs Achsen, 7 kg Traglast am Flansch, Wiederholgenauigkeit nach ISO 9283 ±0,01 mm, Maximalauslage 911 mm, Gewicht Manipulator 55 kg. Der Roboter ist auf einem Systemprofilpodest mit Rollen montiert und mit einem für Kollaboration geeigneten Grei
+Typ: Gerät
+Standort: Wilhelmshaven
+__________________________
+|Faserlaser zum Schweißen und Schneiden|
+Beschreibung: Es handelt sich um eine Anlage zur Lasermaterialbearbeitung, insbesondere Laserschweißen und Laserschneiden.
+Typ: Gerät
+Standort: Wilhelmshaven
+__________________________
+|Forschungsflugzeug „Jade One“|
+Beschreibung: Das Forschungsflugzeug „Jade One“ ist eine kostengünstige und flexible Fernerkundungsplattform. Ein besonderer Vorteil ist, dass in den Außenlastbehältern unter den Tragflächen und im Rumpf Sensoren und andere Ausrüstung ohne Zertifizierungsaufwand eingebaut werden können.
+Typ: Gerät
+Standort: Wilhelmshaven
+__________________________
+|Franka Emika Panda|
+Beschreibung: Der Franka Emika Panda ist ein kollaborierender Industrieroboter. Dieser zeichnet sich, repräsentativ für weitere kollaborierende Roboter, durch eine einfache Programmierung und einer sicheren Kollisionserkennung aus.
+Typ: Gerät
+Standort: Wilhelmshaven
+__________________________
+|Fronius TPS 320i Pulse, Lichtbogenschweißstromquelle|
+Beschreibung: Fronius TPS 320i Pulse, Lichtbogenschweißstromquelle. Die Stromquelle ist für den Betrieb am Industrieroboter ausgestattet und verfügt neben dem konventionellen MSG-Programm auch über den Cold Metal Transfert (CMT) Prozess, womit die Stromquelle u.A. für generative Fertigung (WAAM, Wire-and-Arc-Addi
+Typ: Gerät
+Standort: Wilhelmshaven
+__________________________
+|Fräsmaschine WF 410 MC|
+Beschreibung: Die Universal-Fräs- und Bohrmaschine WF 410 MC mit Heidenhain TNC 620 Steuerung ist Teil der IHJO Innovation(s)Werkstatt in Oldenburg und wird dort zum Prototypenbau eingesetzt.
+Typ: Gerät
+Standort: Oldenburg
+__________________________
+|Fügetechnik|
+Beschreibung: Die Hochschule Emden/Leer bietet Beratung und Bearbeitung von schweißtechnischen Fragestellungen an.
+Typ: Beratung
+Standort: Emden
+__________________________
+|Führungskräfte-Workshop: Mitarbeitende motivorientiert führen|
+Beschreibung: Wie schaffe ich es, Mitarbeitende dauerhaft zu motivieren und für mein Unternehmen zu begeistern? Wie gelingt es mir, sie individuell zu führen und die Stärken der einzelnen Persönlichkeiten zum Wohle des Unternehmens zu fördern?
+Typ: Schulung
+Wo: Nach Absprache
+__________________________
+|Ganzheitliche Optimierung Ihrer Unternehmensprozesse - Operational Excellence|
+Beschreibung: Wir unterstützen Sie bei der Optimierung Ihrer Prozesse - mit dem Ziel einer kontinuierlichen Verbesserung!
+Typ: Beratung
+Standort: Emden
+__________________________
+|Hitachi S-3200N Rasterelektronenmikroskop|
+Beschreibung: Mit der Elektronenmikroskopie lassen sich Strukturen bis in den Nanometerbereich visualisieren. Das Hitachi S-3200N Rasterelektronenmikroskop ist Teil der Elektronenmikroskopie Serviceeinheit der Universität Oldenburg.
+Typ: Gerät
+Standort: Oldenburg
+__________________________
+|Hochauflösendes Transmissionselektronenmikroskop Jeol JEM2100F|
+Beschreibung: Mit der Elektronenmikroskopie lassen sich Strukturen bis in den Nanometerbereich visualisieren. Das hochauflösende Transmissionselektronenmikroskop Jeol JEM2100F ist Teil der Elektronenmikroskopie Serviceeinheit der Universität Oldenburg.
+Typ: Gerät
+Standort: Oldenburg
+__________________________
+|Hochvakuumanlage mit PVD-Technologie|
+Beschreibung: Dünnschichttechnologie, Beschichtung und Strukturierung. Im Labor für Mikrotechnik stehen Hochvakuumanlagen mit verschiedenen PVD-Technologien der Dünnschichttechnik zur Verfügung.
+Typ: Gerät
+Standort: Wilhelmshaven
+__________________________
+|Häusliches Pflegelabor IDEAAL - Active Assisted Living #LivingLab|
+Beschreibung: Das IDEAAL-Labor bietet eine realitätsnahe Umgebung für Forschung rund um die Themen häusliche Pflege und Active Assisted Living. Hier werden Unterstützungstechnologien getestet und demonstriert.
+Typ: Labor
+Standort: Oldenburg
+__________________________
+|Hörkabinen am Fraunhofer-Institut für Digitale Medientechnologie IDMT|
+Beschreibung: Auf Basis von aktuellen wissenschaftlichen Erkenntnissen zur Hörwahrnehmung bietet der Institutsteil Hör-, Sprach - und Audiotechnologie HSA anwendungsnahe Hörstudien, Entwicklungsdienstleistungen und Softwaretools zur Bewertung von Sprachverständlichkeit, Höranstrengung und Klangqualität an.
+Typ: Labor
+Standort: Oldenburg
+__________________________
+|IT-Sicherheit - Unterstützung bei einer sicheren Gestaltung Ihrer Geschäftsprozesse|
+Beschreibung: Wir bieten Ihnen eine Analyse Ihrer IT-Struktur hinsichtlich einer BSI-Konformität sowie den Aufbau eines Informationssicherheitsmanagementsystems an.
+Typ: Beratung
+Standort: Emden
+__________________________
+|Infrastruktur für Künstliche Intelligenz (CoSAIR)|
+Beschreibung: Leistungsstarke Infrastruktur für Forschung und Lehre im Bereich der Künstlichen Intelligenz (KI) mit einer verwalteten Nutzung des Systems. Je nach Einsatz und Anwendungsfall kann verschiedenen Benutzern eine parallele hochleistungs, GPU-basierte Recheneinheit zur Verfügung gestellt werden.
+Typ: Gerät
+Standort: Oldenburg
+__________________________
+|Innosys NordWest on AIR - unsere Radiosendung für KMU auf Radio Ostfriesland|
+Beschreibung: Hier gibt es die Folgen unserer Sendereihe "Innosys NordWest on AIR" noch einmal für Sie zum Nachhören.
+Typ: Beratung
+Standort: Emden
+__________________________
+|InnosysDialog - Regionaler Dialog für Wirtschaft und Wissenschaft|
+Beschreibung: Energieeinsparung in KMU: Gewerbeobjekte
+Typ: Veranstaltung
+Wo: CORE Oldenburg Heiligengeiststraße 6-8 26121 Oldenburg
+__________________________
+|InnosysLabs Shortcast - der kurze Podcast für regionale Unternehmen|
+Beschreibung: InnosysLabs Shortcast - der kurze Podcast für regionale Unternehmen von der Hochschule Emden/Leer. Wir bringen innovative Themen kurz und informativ auf die Tonspur!
+Typ: Beratung
+Standort: Emden
+__________________________
+|Innovation & Geschäftsmodellentwicklung im Sustainable Venturing|
+Beschreibung: Master-Studierende der Wirtschaftswissenschaften erarbeiten gemeinsam mit Unternehmen Geschäftsmodelle für nachhaltige Gründungs- oder Innovationsideen.
+Typ: Beratung
+Standort: Oldenburg
+__________________________
+|Innovation(s)Labor digital - IHJO Transferlabor #LivingLab|
+Beschreibung: Hier kommen Wissenschaft und Praxis zusammen! Das Innovation(s)Labor digital vernetzt Wissenschaft und Wirtschaft, fördert den Wissenstransfer und treibt so die Digitalisierung der Region voran. Im Digitallabor können neue Technologien wie 3D-Druck, Data Science oder VR erprobt und genutzt werden.
+Typ: Labor
+Standort: Oldenburg
+__________________________
+|Innovation(s)Werkstatt - IHJO #LivingLab|
+Beschreibung: Die Innovations(s)Werkstatt bietet einen kreativen Raum für innovative Ideen. In der Werkstatt können Prototypen gebaut sowie neue Produkte und Services entwickelt und erprobt werden. Neben vielfältigen Geräten zur Metall- und Kunststoffverarbeitung stehen außerdem Seminarräume für Workshops bereit.
+Typ: Labor
+Standort: Oldenburg
+__________________________
+|Integration von User Experience in Agile Software Development|
+Beschreibung: Ein gutes Agile Software Development ist oft eine Herausforderung. In dieser Beratung werden unternehmensangepasst verschiedene Ansätze und Best Practices vorgestellt und passgenau in Ihr Unternehmen integriert.
+Typ: Beratung
+Standort: Emden
+__________________________
+|KUKA Agilus KR 6 R700 sixx C|
+Beschreibung: KUKA Agilus KR 6 R700 sixx C, Industrieroboter. Sechs Achsen, 6 kg Traglast am Flansch, Wiederholgenauigkeit nach ISO 9283 ±0,03 mm, Maximalauslage 785 mm, Gewicht Manipulator 50 kg. Der Roboter ist in Deckenlage („über Kopf“) in einem Systemprofilrahmen mit Rollen montiert. Der Anschluss verschiede
+Typ: Gerät
+Standort: Wilhelmshaven
+__________________________
+|Karl-Fischer-Titration|
+Beschreibung: Mit dieser Testmethode kann in festen, flüssigen und gasförmigen Proben der Wassergehalt gemessen werden. Auch sehr geringe Mengen Wasser können quantitativ nachgewiesen werden.
+Typ: Gerät
+Standort: Wilhelmshaven
+__________________________
+|LIFE – Lab for Intensive Care Facility Experience|
+Beschreibung: Das Intensivpflegelabor “LIFE” (Lab for Intensive Care Facility Experience), welches sich derzeit noch im Aufbau befindet, simuliert ein typisches Einbettzimmer einer Intensivstation. Hier können Forschungsarbeiten und neue Technologien im Bereich Intensivpflege realitätsnah verwirklicht werden.
+Typ: Labor
+Standort: Oldenburg
+__________________________
+|Labor Medizintechnik|
+Beschreibung: Das Medizintechniklabor verfügt über eine vielzahl an Prüf- und Messtechniken und wird voranging in der Ausbildung der Studierenden eingesetzt.
+Typ: Labor
+Standort: Wilhelmshaven
+__________________________
+|Labor Produktionsmanagement|
+Beschreibung: Das Labor "Produktionsmanagement" vereint die Fächer „Arbeitswissenschaft“, „Work and Industrial Organization“ und „Industrial Engineering“ und wird zum Experimentieren und Forschen genutzt. Es ist in die Arbeiten des Jade Instituts für Produktions- und Dienstleistungssysteme IPD integriert.
+Typ: Labor
+Standort: Wilhelmshaven
+__________________________
+|Labor für Additive Fertigung (3D-Druck)|
+Beschreibung: Das Labor für Additive Fertigung bietet die Möglichkeit, mit verschiedenen Verfahren aus unterschiedlichen Materialien (Kunststoffen und Metallen) Bauteile direkt basierend auf einem CAD-Modell herzustellen.
+Typ: Labor
+Standort: Emden
+__________________________
+|Labor für Assistive Technologien|
+Beschreibung: 1. Das Labor für Assistive Technologien ist mit diversen Robotern ausgestattet, die in den verschiedensten Einsatzbereichen ihren Einsatz finden können. Es stehen humanoide Roboter als auch kollaborierende Roboter zur Verfügung.
+Typ: Labor
+Standort: Oldenburg
+__________________________
+|Labor für Fluidenergiemaschinen|
+Beschreibung: Versuchshalle mit Prüfständen zu strömungsmechanischen Untersuchungen sowie für Turbomaschinen.
+Typ: Labor
+Standort: Wilhelmshaven
+__________________________
+|Labor für Laser- und Schweißtechnik|
+Beschreibung: Das Labor für Laser- und Schweißtechnik kann Teile von schweißtechnischen Produktionsketten schnell und flexibel nachbilden. Durch den Einsatz von Industrieroboter können die Funktionen spezialisierter Bewegungssysteme zuverlässig nachempfunden werden. Gerne beraten wir Sie auch.
+Typ: Labor
+Standort: Wilhelmshaven
+__________________________
+|Labor für Laser- und Schweißtechnik|
+Beschreibung: Das Labor für Laser- und Schweißtechnik kann Teile von schweißtechnischen Produktionsketten schnell und flexibel nachbilden. Durch den Einsatz von Industrieroboter können die Funktionen spezialisierter Bewegungssysteme zuverlässig nachempfunden werden. Wir Beraten Sie gerne in allen Bereichen.
+Typ: Beratung
+Standort: Wilhelmshaven
+__________________________
+|Labor für Maschinendynamik|
+Beschreibung: Das Labor für Maschinendynamik widmet sich allen Fragen rund um Dynamik und Schwingungen von modernen Maschinen.
+Typ: Labor
+Standort: Emden
+__________________________
+|Labor für Mechatronik|
+Beschreibung: Das Labor für Mechatronik bietet die Möglichkeit mechatronische Systeme und Geräte zu entwickeln und zu konstruieren.
+Typ: Labor
+Standort: Wilhelmshaven
+__________________________
+|Labor für Meerestechnik|
+Beschreibung: Versuchslabor für Sensoren, 8 studentische Arbeitsplätze mit Laborausstattung.
+Typ: Labor
+Standort: Wilhelmshaven
+__________________________
+|Labor für Membranfertigung|
+Beschreibung: In diesem Labor wird u.a. die Herstellung, Beschichtung und Überprüfung von Membranen durchgeführt.
+Typ: Labor
+Standort: Emden
+__________________________
+|Labor für Photogrammetrie|
+Beschreibung: 3D-Auswertung, -Analyse und -Visualisierung. Neben der klassischen Luftbildauswertung werden Projekte und Fragestellungen im Bereich der UAV-Photogrammetrie, des Structure-from-Motion und der Denkmalpflege verfolgt.
+Typ: Labor
+Standort: Oldenburg
+__________________________
+|Labor für Produktionsplanung|
+Beschreibung: Im Labor Produktionsplanung werden Themen rund um die Produktionsorganisation, Produktionsplanung und -steuerung und der unterstützenden Softwaresysteme sowie die für die Produktion wichtigen Themen zur Nachhaltigkeit und Digitalisierung bearbeitet.
+Typ: Labor
+Standort: Emden
+__________________________
+|Labor für Regenerative Energien|
+Beschreibung: Dieses Labor befasst sich schwerpunktmäßig mit der effizienten und intelligenten Einbindung regenerativer Stromerzeugungsanlagen in das elektrische Verteilnetz unter Einsatz moderner Automatisierungstechnik. Nach Absprache können Sie unser Labor gern nutzen!
+Typ: Labor
+Standort: Emden
+__________________________
+|Labor für Werkstoffkunde, Laser- und Fügetechnik #LivingLab|
+Beschreibung: Das Labor für Werkstoffkunde, Laser- und Fügetechnik widmet sich den Einsatzgebieten der Industriellen Lasermaterialbearbeitung, der Werkstoffkunde und der Fügetechnik.
+Typ: Labor
+Standort: Emden
+__________________________
+|Labor für Werkzeugmaschinen|
+Beschreibung: Das Labor für Werkzeugmaschinen bietet insbesondere Studierenden des Maschinenbaus Möglichkeiten die spanende Fertigung, als auch die additive Fertigung näher kennenzulernen.
+Typ: Labor
+Standort: Wilhelmshaven
+__________________________
+|Labor für digitales Engineering|
+Beschreibung: Das Labor für digitales Engineering ist ein fachbereichsübergreifendes Labor an der Jade Hochschule in Oldenburg. Es beinhaltet eine Kombination aus VR- und AR- Technologien mit der Robotik. Das Herzstück bildet eine Mixed Reality Cave in der virtuelle Modelle erlebt und Simulationen durchgeführt
+Typ: Labor
+Standort: Oldenburg
+__________________________
+|Labor für diskrete Simulation & Virtual Reality #LivingLab|
+Beschreibung: Kommen Sie in unser Labor, um heute bereits einen Blick in die Zukunft zu wagen und erste Inspiration für die Implementierung von KI, VR & AR zu finden. Neben Demonstratoren und neuer Technik finden Sie bei uns vor allem Know-How und Optimismus!
+Typ: Labor
+Standort: Leer
+__________________________
+|Labor für geodätische Messtechnik|
+Beschreibung: Das Labor für geodätische Messtechnik setzt sich aus dem Instrumentenpool geodätischer und industrieller Messtechnik sowie der Geodätischen Werkstatt zusammen.
+Typ: Labor
+Standort: Oldenburg
+__________________________
+|Labor für optische 3D-Messtechnik|
+Beschreibung: Das Labor bietet die Möglichkeit, basierend auf optischer Messtechnik, 3D-Oberflächen- sowie Positionsdaten von starren wie auch dynamischn Objekten zu erfassen. Es sind feste Referenzfelder für Laserscanner- und Tracker sowie für die Nahbereichsphotogrammetrie installiert.
+Typ: Labor
+Standort: Oldenburg
+__________________________
+|Labor für virtuelle Welten - Architektur|
+Beschreibung: Gemeinschaftslabor der Fachbereiche Architektur und Bauwesen Gesundheit Geoinformation in Oldenburg. Erstklassige Ausstattung mit Hochleistungsrechnern zur Bearbeitung rechenintensiver Visualisierungs- und Designprozesse.
+Typ: Labor
+Standort: Oldenburg
+__________________________
+|Labor für virtuelle Welten - Geoinformation|
+Beschreibung: Gemeinschaftslabor der Fachbereiche Architektur und Bauwesen Gesundheit Geoinformation in Oldenburg. Erstklassige Ausstattung mit Hochleistungsrechnern zur Bearbeitung rechenintensiver Visualisierungsprozesse.
+Typ: Labor
+Standort: Oldenburg
+__________________________
+|Labor für virtuelle Welten - Gesundheit|
+Beschreibung: Gemeinschaftslabor der Fachbereiche Architektur und Bauwesen Gesundheit Geoinformation in Oldenburg. Erstklassige Ausstattung mit Hochleistungsrechnern zur Bearbeitung Rechenintensiver Visualisierungsprozesse.
+Typ: Labor
+Standort: Oldenburg
+__________________________
+|Laser-Cutter Universal Laser Systems VLS4.60|
+Beschreibung: Der VLS4.60 von Universal Laser Systems ist ein freihstehender Laser-Cutter. Er ist Teil der Test- und Integrationsplattform Industrie 4.0 am OFFIS.
+Typ: Gerät
+Standort: Oldenburg
+__________________________
+|Lasermaterialbearbeitung|
+Beschreibung: Die Hochschule Emden/Leer bietet Beratung und Machbarkeitsstudien zur lasertechnischen Fertigung an.
+Typ: Beratung
+Standort: Emden
+__________________________
+|Laserscanner - Faro Focus 3D|
+Beschreibung: Polares Messsystem, mit dem dreidimensionale Messungen ausgeführt und Punktwolken erstellt werden können.
+Typ: Gerät
+Standort: Oldenburg
+__________________________
+|Laserscanner - Leica RTC360|
+Beschreibung: 3D-Laserscanner zur schnellen und präzisen Erfassung der Umgebung.
+Typ: Gerät
+Standort: Oldenburg
+__________________________
+|Laserscanner - Z+F Imager 5010X|
+Beschreibung: Polares Messsystem, mit dem dreidimensionale Messungen ausgeführt und Punktwolken erstellt werden können.
+Typ: Gerät
+Standort: Oldenburg
+__________________________
+|Lasertracker - API T3|
+Beschreibung: Hochgenaues mobiles Lasermesssytem. Polare Messungen mit hoher Abtastrate und höchsten Genauigkeiten in begrenzten (indoor) Volumen.
+Typ: Gerät
+Standort: Oldenburg
+__________________________
+|Lasertracker - Faro Vantage|
+Beschreibung: Hochgenaues mobiles Lasermesssytem. Polare Messungen mit hoher Abtastrate und höchsten Genauigkeiten in begrenzten (indoor) Volumen.
+Typ: Gerät
+Standort: Oldenburg
+__________________________
+|Lean Management I-Workshop: Vermeiden Sie Verschwendungen und gestalten Sie Ihre Prozesse effizient! – Die Einführung ins Lean Management|
+Beschreibung: Lernen Sie die grundlegenden Prinzipien des Lean Managaments kennen.
+Typ: Schulung
+Wo: Hochschulinstitut für Logistik / "Anwenderzentrum" in Emden
+__________________________
+|Lean Management II-Workshop: Optimieren Sie Ihre Prozesse! - Methoden des Lean Managements|
+Beschreibung: Nehmen Sie teil an einem Workshop mit praktischer Durchführung ausgewählter Lean Management Methoden.
+Typ: Schulung
+Wo: Hochschulinstitut für Logistik / "Anwenderzentrum" in Emden
+__________________________
+|Lean Management III-Workshop: Werden Sie schlank! - Mit der Wertstrom-Methode zur schlanken Produktion|
+Beschreibung: Erfahren Sie, wie Sie die gesamte Wertschöpfungskette Ihres Unternehmens aufnehmen und Verschwendungen erkennen.
+Typ: Schulung
+Wo: Hochschulinstitut für Logistik / "Anwenderzentrum" in Emden
+__________________________
+|Lean Management IV-Workshop: Führen am Ort des Geschehens - Shopfloor Management|
+Beschreibung: Erfahren Sie, wie Sie einen ständigen Kommunikations- und Informationsfluss im gesamten Unternehmen gewährleisten.
+Typ: Schulung
+Wo: Hochschulinstitut für Logistik / "Anwenderzentrum" in Emden
+__________________________
+|Logistiklabor|
+Beschreibung: Im innovativen Logistiklabor können mit Hilfe von neusten Technologien, wie VR/AR und Softwareunterstützung Planung und Optimierungen an den verschiedensten Schnittstellen in der Logistik simuliert werden. Mit diesem Fachwissen können Projekte und Forschungsaktivitäten durchgeführt werden.
+Typ: Labor
+Standort: Elsfleth
+__________________________
+|Manöverbecken|
+Beschreibung: Das Manöverbecken am Fachbereich Seefahrt dient der Veranschaulichung und Untersuchung für Studierende und Forschung von hydrodynamischen Phänomenen an Seeschiffen und ihren Manövriereinrichtungen.
+Typ: Labor
+Standort: Elsfleth
+__________________________
+|Maschinendynamik und Schwingungsanalyse|
+Beschreibung: Wir beraten Sie zur Messung von Schwingungen und zu effektiven Gegenmaßnahmen.
+Typ: Beratung
+Standort: Emden
+__________________________
+|Material- und Werkstoffprüfung|
+Beschreibung: Die Hochschule Emden/Leer unterstützt Sie bei Material-/Werkstoffprüfungen verschiedener Arten in Ihrem Unternehmen.
+Typ: Beratung
+Standort: Emden
+__________________________
+|Mechanische Simulationen, insb. Finite-Elemente-Methode (FEM)|
+Beschreibung: Wir beraten Sie zu Simulationsmethoden des mechanischen Bauteilverhaltens, insb. zur Anwendung der Finite-Elemente-Methode (FEM).
+Typ: Beratung
+Standort: Emden
+__________________________
+|Membrantechnik - Beratung zu funktionalen Beschichtungen|
+Beschreibung: Die Hochschule Emden/Leer bietet Beratung zur Produkt- und Anwendungsentwicklung beim Einsatz von funktionalen Beschichtungen oder Membranen zur Wasseraufbereitung an.
+Typ: Beratung
+Standort: Emden
+__________________________
+|Metall-3D-Drucker SLM 125|
+Beschreibung: Der SLM 125 ist ein flexibel einsetzbarer Metall-3D-Drucker, der das selektive Laserschmelzverfahren (Selective Laser Melting / SLM) verwendet. Er ist Teil der IHJO Innovation\(s\)Werkstatt.
+Typ: Gerät
+Standort: Oldenburg
+__________________________
+|Mikroskop Leica DM2700M|
+Beschreibung: Auflichtmikroskop Leica DM2700M mit FLEXACAM C1 zur Untersuchung von Schliffproben.
+Typ: Gerät
+Standort: Wilhelmshaven
+__________________________
+|Mit Digitalisierung den Prozess der Kommissionierung effizienter gestalten - Kommissionier-Workshop|
+Beschreibung: Digitalisierung in der Kommissionierung - In dieser Schulung bekommen Sie die Möglichkeit, unterschiedliche Techniken der Kommissionierung auszuprobieren und diese miteinander zu vergleichen.
+Typ: Schulung
+Wo: Hochschulinstitut für Logistik / "Anwenderzentrum" in Emden
+Wann: Nach Absprache
+__________________________
+|Mixed Reality and Collaboration Environment - MiRaCle|
+Beschreibung: Das Mixed Reality and Collaboration Environment (MiRaCle) ist ein vollständig ausgerüstetes Labor für Forschung und Entwicklung in den Bereichen der augmentierten (erweiterten, AR) und virtuellen Realität (VR). Es bietet vielfältige Möglichkeiten für Mixed Reality Experimente.
+Typ: Labor
+Standort: Oldenburg
+__________________________
+|Mobile Evaluationsplattform für Schiffsassistenzsysteme (greenMEPS)|
+Beschreibung: Die mobile Evaluations-Plattform für Schiffsassistenzsysteme ermöglicht eine schnelle und einfache Entwicklung moderner Assistenztechnologie für die Schiffsführung. Das Gesamtsystem lässt sich in einem PKW transportieren und durch eine Person innerhalb von 90 Minuten aufbauen und in Betreib nehmen.
+Typ: Gerät
+Standort: Elsfleth
+__________________________
+|NEMo - Nachhaltige Erfüllung von Mobilitätsbedürfnissen im ländlichen Raum|
+Beschreibung: Das inter- und transdisziplinäre Forschungsprojekt NEMo zielte auf die Entwicklung nachhaltiger und innovativer Mobilitätsdienstleistungen sowie darauf aufbauenden Geschäftsmodellen ab. Dabei schafft NEMo neue Mobilitätsangebote, in denen auch Bürgerinnen und Bürger zu Mobilitätsanbietenden werden.
+Typ: Beratung
+Standort: Oldenburg
+__________________________
+|Nebelkammer|
+Beschreibung: Nebelkammer zur Sichtbarmachung der Raumstrahlung oder auch der in die Kammer eingebrachten Strahlung.
+Typ: Gerät
+Standort: Wilhelmshaven
+__________________________
+|Neuroimaging Unit|
+Beschreibung: Die Neuroimaging Unit der Universität Oldenburg betreibt zwei Forschungsgroßgeräte: den Magnetresonanztomographen (MRT) und den Magnetenzephalographen (MEG). Beide Geräte bieten vielfältige, neurowissenschaftliche Untersuchungsmöglichkeiten in den Bereichen der Sensorik, Motorik und Kognition.
+Typ: Labor
+Standort: Oldenburg
+__________________________
+|Nutzerzentrierte Software - auf dem Weg zur guten User Experience|
+Beschreibung: Eine gute User Experience (= Benutzererlebnis) wird für digitale Produkte immer wichtiger. In dieser Schulung werden die Grundlagen der Usability und User Experience sowie die Gestaltgesetze und Wahrnehmungen behandelt und an konkreten Beispielen aus der Praxis der Teilnehmenden besprochen.
+Typ: Schulung
+Wo: Emden / nach Absprache
+__________________________
+|OFFIS Dienstleistungen: Auftragsentwicklung|
+Beschreibung: Sie haben nicht die Informatik-Expertise oder aktuell keine Kapazitäten in der Forschungsabteilung, um eine neue Produktidee alleine umzusetzen? Wir können Sie bei der Softwareentwicklung und -validierung für Produktprototypen unterstützen. So kommen Sie schnell und effizient zum neuen Produkt.
+Typ: Beratung
+Standort: Oldenburg
+__________________________
+|OFFIS Dienstleistungen: Auftragsforschung|
+Beschreibung: Sie haben konkrete Ideen für neue Produkte oder wollen digitale Technologien erstmals einsetzen? Im Rahmen der Auftragsforschung untersuchen wir gemeinsam mit Ihnen unternehmensspezifische Forschungsfragen. Von der Idee bis zur Innovation – schnell, zuverlässig und unbürokratisch.
+Typ: Beratung
+Standort: Oldenburg
+__________________________
+|OFFIS Dienstleistungen: Digitalisierungsberatung|
+Beschreibung: Big Data, Virtual Reality, Künstliche Intelligenz, Cyber Security – in kaum einem Bereich verändert sich die Technologielandkarte schneller als in der IKT. Wir unterstützen Sie dabei, die Potenziale der Digitalisierung für Ihr Unternehmen zu identifizieren und nutzbar zu machen.
+Typ: Beratung
+Standort: Oldenburg
+__________________________
+|OFFIS Dienstleistungen: Technologieberatung|
+Beschreibung: Jede Technologie hat ihre Vor- und Nachteile und kann unterschiedlich eingesetzt werden. Durch die Teilnahme an zahlreichen anwendungsnahen Forschungsprojekten kennen wir diese bereits vor dem Markt. Unsere gemachten Erfahrungen teilen wir gerne.
+Typ: Beratung
+Standort: Oldenburg
+__________________________
+|OFFIS Dienstleistungen: Technologieschulung|
+Beschreibung: Die Weiterbildung der Mitarbeiter*innen und die Entwicklung eigener IKT-Kompetenzen erhöht die Zukunftsfähigkeit Ihres Unternehmens. Mit individuell auf Sie zugeschnittenen Schulungsangeboten unterstützen wir Sie dabei die digitale Transformation anzugehen.
+Typ: Schulung
+Wo: Im OFFIS oder bei Ihnen vor Ort
+Wann: Auf Anfrage
+__________________________
+|Physiklabor|
+Beschreibung: Das Physiklabor ist ein Labor, welches hauptsächlich in der Lehre eingesetzt wird. Verschiedene Sachverhalte der Physik können anschaulich dargestellt und experimentell erprobt werden.
+Typ: Labor
+Standort: Wilhelmshaven
+__________________________
+|Prototyping-Werkstatt am Fraunhofer-Institut für Digitale Medientechnologie IDMT|
+Beschreibung: Die Prototyping-Werkstatt am Fraunhofer IDMT, Institutsteil Hör-, Sprach-, und Audiotechnologie HSA, ist die zentrale Anlaufstelle, wenn es darum geht Prototypen zu bauen und zu testen.
+Typ: Labor
+Standort: Oldenburg
+__________________________
+|QuantBioLab – Forschungsgruppe Quantenbiologie und Computerphysik|
+Beschreibung: Mithilfe von komplexen Computersimulationen auf Nanoebene wird am QuantBioLab ein breites Spektrum an Fragen zu Biomolekülen und intelligenten anorganischen Materialien erforscht. Anwendungsgebiete umfassen u.a. Medizin und Materialwissenschaft.
+Typ: Labor
+Standort: Oldenburg
+__________________________
+|Rasterelektronenmikroskop Phillips XL30|
+Beschreibung: Rasterelektronenmikroskopie und Röntgenanalyse
+Typ: Gerät
+Standort: Wilhelmshaven
+__________________________
+|Reallabor Helleheide & ENaQ-Projekt #LivingLab|
+Beschreibung: Das Projekt ENaQ im neu-entstehenden Wohnquartier Helleheide umfasst die Erforschung von Smart-City-Konzepten im Bereich Energie. In einem Reallabor werden benachbarte Verbraucher vernetzt, um überschüssige Energie (Strom, Wärme) direkt vor Ort umverteilen und effektiv nutzen zu können.
+Typ: Labor
+Standort: Oldenburg
+__________________________
+|Reallaborfläche Fliegerhorst|
+Beschreibung: Die Stadt Oldenburg stellt im Quartier Helleheide eine Reallaborfläche für forschende Unternehmen und Institute zur Miete zur Verfügung. Neben moderner Infrastruktur (Glasfaser, LoRa-WAN, etc.) bietet die Stabsstelle Digitalisierung den Interessenten u.a. Unterstützung bei Antragstellungen an.
+Typ: Labor
+Standort: Oldenburg
+__________________________
+|Referenten gesucht: Gründungstalks und Networking-Veranstaltungen mit Studierenden der Hochschule Emden/Leer|
+Beschreibung: Sie haben bereits ein Unternehmen gegründet und möchten Studierenden von Ihren Erfahrungen berichten sowie Ihr Netzwerk ausbauen? Dann sind Sie bei uns genau richtig!
+Typ: Beratung
+Standort: Emden
+__________________________
+|Roboterarm KUKA LBR iiwa 7 R800|
+Beschreibung: Der KUKA LBR iiwa 7 R800 ist ein flexibler Co-Bot – ein Roboter, der zur Zusammenarbeit mit Menschen konzipiert ist. Er ist Teil der Test- und Integrationsplattform Industrie 4.0 am OFFIS.
+Typ: Gerät
+Standort: Oldenburg
+__________________________
+|Roboterarm Universal Robots UR5 CB3|
+Beschreibung: Der Universal Robots UR5 CB3 ist ein flexibler Co-Bot – ein Roboter, der zur Zusammenarbeit mit Menschen konzipiert ist. Er ist Teil der Test- und Integrationsplattform Industrie 4.0 am OFFIS.
+Typ: Gerät
+Standort: Oldenburg
+__________________________
+|Roboterfabrik Wilhelmshaven|
+Beschreibung: Aus- und Weiterbildung in Robotik für Studierende, SchülerInnen, LehrerInnen sowie (Nachwuchs-)Fachkräfte und Unternehmen der JadeBay-Region.
+Typ: Labor
+Standort: Wilhelmshaven
+__________________________
+|Schweißtechnische Metallographie|
+Beschreibung: Das Labor für Laser- und Schweißtechnik bietet neben der Prozess- und Applikationsentwicklung auch eine versuchsbegleitende Metallographie. Schweißproben können so direkt präpariert und analysiert werden.
+Typ: Labor
+Standort: Wilhelmshaven
+__________________________
+|Selektives Laserschmelzen / Metallsintern / SLM 125 HL|
+Beschreibung: Wir bieten Ihnen eine effiziente Fertigung von Baumustern, Prototypen oder Erstmustern mit komplexer Hüllgeometrie oder filigranen Formelementen aus Aluminium, Stahl oder Titan mittels Selektivem Lasersintern (SLM) an - als Prozessstudie, als Fertigungsauftrag oder als Machbarkeitsstudie.
+Typ: Gerät
+Standort: Emden
+__________________________
+|Smart Energy Simulation and Automation – SESA Lab #LivingLab|
+Beschreibung: Im SESA Lab wird die Digitalisierung von Energiesystemen erforscht. Dank flexibler Simulationsumgebungen (mosaik) bietet das Labor umfangreiche Möglichkeiten zur Nachbildung und Erprobung von Smart Grids unter realistischen Bedingungen.
+Typ: Labor
+Standort: Oldenburg
+__________________________
+|SmartHelm|
+Beschreibung: SmartHelm zielt ab auf die Entwicklung eines intelligent vernetzten Fahrradhelms. Dieser ist mit Sensorik und Fahrassistenzsystemen ausgestattet (AR, Eye-Tracking, EEG). SmartHelm soll insbesondere den Arbeitsalltag von Fahrradkurieren erleichtern und ihre Sicherheit erhöhen.
+Typ: Beratung
+Standort: Oldenburg
+__________________________
+|Sound-Technologies-Lab|
+Beschreibung: Im nach DIN 18041 zertifizierten Sound-Technologies-Lab des Fraunhofer IDMT können neu entwickelte Technologien in konkrete Anwendungsszenarien integriert werden. Das Labor eignet sich ideal für die Durchführung von Evaluations- und Nutzerstudien.
+Typ: Labor
+Standort: Oldenburg
+__________________________
+Sprechstunde Augmented Reality (AR)
+Beschreibung: Sie interessieren sich für die Möglichkeiten von virtueller und erweiterter Realität? Sie möchten Anwendungsbeispiele sehen und beraten werden, wie Sie diese Technologien anwenden können? Dann laden wir Sie zu einer AR-Sprechstunde ein - digital oder vor Ort im VR-Labor in Leer.
+Typ: Beratung
+Standort: Leer
+__________________________
+|Sprechstunde Künstliche Intelligenz (KI)|
+Beschreibung: Sie interessieren sich für die Möglichkeiten künstlicher Intelligenz im Kontext Ihres Unternehmens? Sie möchten Anwendungsbeispiele sehen und beraten werden, wie Sie diese Technologien anwenden können? Dann laden wir Sie zu der "KI-Sprechstunde" ein - digital oder vor Ort im VR-Labor in Leer.
+Typ: Beratung
+Standort: Leer
+__________________________
+|Sprechstunde Virtual Reality (VR)|
+Beschreibung: Sie interessieren sich für die Möglichkeiten von virtueller und erweiterter Realität? Sie möchten Anwendungsbeispiele sehen und beraten werden, wie Sie diese Technologien anwenden können? Dann laden wir Sie zu einer VR-Sprechstunde ein - digital oder vor Ort im VR-Labor in Leer.
+Typ: Beratung
+Standort: Leer
+__________________________
+|TOC-Messgerät (Total Organic Carbon)|
+Beschreibung: Das Gerät misst an flüssigen sowie festen Proben den anorganischen und den Gesamt-Kohlenstoff-Gehalt. Aus der Differenz ergibt sich der Gehalt an organischem Kohlenstoff.
+Typ: Gerät
+Standort: Wilhelmshaven
+__________________________
+|Teambuilding-Workshop: Typisch ich, typisch Du - Mit sich und den Kollegen besser umgehen|
+Beschreibung: Das ist ja mal wieder typisch! Der Umgang mit den lieben Kolleginnen und Kollegen ist so facettenreich wie die Charaktere und Persönlichkeiten, die sich hinter den Menschen befinden. Dieser Workshop hilft Ihnen, sich selbst und andere besser zu verstehen.
+Typ: Schulung
+Wo: Nach Absprache
+__________________________
+|Teamentwicklung und Kompetenzmanagement durch KODE - Workshop|
+Beschreibung: In einer modernen Arbeitswelt finden fast alle beruflichen Tätigkeiten im Kontext von Teams statt. Doch wie stelle ich meine Teams optimal zusammen? Wie wähle ich die richtigen Personen für die richtigen Rollen aus? Wie gestalte ich eine Kultur, in der Teams ihre volle Effektivität entfalten?
+Typ: Schulung
+Wo: Nach Absprache
+__________________________
+|Technikum der Abteilung Elektrotechnik und Informatik|
+Beschreibung: Das Technikum E+I ist der zentrale Platz für Veranstaltungen und Ausstellungen von interessanten Forschungs- und Entwicklungsergebnissen der Abteilung Elektrotechnik und Informatik des Fachbereichs Technik der Hochschule Emden/Leer.
+Typ: Raum
+Standort: Emden
+__________________________
+|Technologien und Trends in der Logistik|
+Beschreibung: Seien Sie dabei, bei einem interaktiven Rundgang mit den neuesten Trends und Innovationen der Intralogisitik im Hochschulinstitut für Logistik in Emden ("Anwenderzentrum")!
+Typ: Beratung
+Standort: Emden
+__________________________
+|Technologiezentrum Nordenham|
+Beschreibung: Im Technologiezentrum Nordenham arbeiten sich ergänzende Unternehmen und Institute in Projekten gemeinsam an anspruchsvollen Materialen und Fertigungstechniken.
+Typ: Raum
+Standort: Nordenham
+__________________________
+|Test- und Integrationsplattform Industrie 4.0 - TIPI 4.0 #LivingLab|
+Beschreibung: Das TIPI 4.0 Labor ist eine Testplattform für den Bereich Produktion am OFFIS. Es umfasst eine Modellfabrik, in der verschiedener Aspekte einer modernen Produktionsanlage simuliert und getestet werden können.
+Typ: Labor
+Standort: Oldenburg
+__________________________
+|Tobii Pro Glasses 2|
+Beschreibung: Tobii Pro Glasses 2 Eyetracking-Brillen können in diversen Bereichen der ihren Einsatz finden. Es handelt sich um ein mobiles Gerät zur Blickregistrierung für den Einsatz in einer natürlichen Umgebung.
+Typ: Gerät
+Standort: Wilhelmshaven
+__________________________
+|Tobii Pro Nano|
+Tobii Pro Nano ist ein monitorbasierter Eye Tracker, der Augenbewegungen über mehrere Kameras mit 60 Hz erfasst und insbesondere für Fixationsstudien entwickelt wurde.
+Typ: Gerät
+Standort: Wilhelmshaven
+__________________________
+|Totalstation - Leica FlexLine TS02|
+Beschreibung: Hochgenaues polares Messsystem mit Distanz- und Winkelmessung.
+Typ: Gerät
+Standort: Oldenburg
+__________________________
+|Totalstation - Trimble S9 HP|
+Beschreibung: Hochgenaues mobiles Messsystem mit Scan- Bildgebungs- und Vermessungsfunktionen.
+Typ: Gerät
+Standort: Oldenburg
+__________________________
+|UNIVERSAL ROBOTS UR3|
+Beschreibung: Der UNIVERSAL ROBOTS UR3 ist ein kollaborierender Industrieroboter. Damit ist es möglich, dass sich Roboter und Mensch den Arbeitsraum ohne Schutzeinhausungen teilen.
+Typ: Gerät
+Standort: Wilhelmshaven
+__________________________
+|Umsetzung von Gründungsideen und Anfertigung von Abschlussarbeiten/Produktentwicklung mit Studierenden|
+Beschreibung: Ihr Unternehmen sucht nach Studierenden für die Umsetzung von Gründungsideen und für die Anfertigung von Abschlussarbeiten/ für die Produktentwicklung? Wir unterstützen Sie bei der Vermittlung.
+Typ: Beratung
+Standort: Emden
+__________________________
+|Usability-Labor|
+Beschreibung: Labor für Usabilitytests mit Hilfe von Eyetrackinggeräten
+Typ: Labor
+Standort: Wilhelmshaven
+__________________________
+|Was denken eigentlich meine Mitarbeitenden über mein Unternehmen? Konzeption und Durchführung von Befragungen durch die Hochschule Emden/Leer|
+Beschreibung: Welche Bedürfnisse und Einstellungen haben meine Mitarbeitenden? Wie ist die Arbeitsbelastung meiner Belegschaft? Fühlt sich mein Team mit unserem Unternehmen verbunden? Antworten auf diese Fragen erhalten Sie in Zusammenarbeit mit der Hochschule Emden/Leer.
+Typ: Beratung
+Standort: Emden
+__________________________
+|Windkanal|
+Beschreibung: Windkanal Göttinger Bauart für aerodynamische Untersuchungen mit Geschwindigkeiten bis zu 50 m/s.
+Typ: Gerät
+Standort: Wilhelmshaven
+__________________________
+|Wo steht Ihr Unternehmen? - Potenzial-Analyse Ihres Unternehmens|
+Beschreibung: Gemeinsam mit Ihnen erfassen und analysieren wir die Ist-Situation Ihres Unternehmens und zeigen Optimierungspotenzial auf.
+Typ: Beratung
+Standort: Emden
+__________________________
+|Workshop - Kreatives Design neuer Produkte und Dienstleistungen|
+Beschreibung: Dieser Workshop vermittelt, wie mit Design Thinking und anderen Kreativitätstechniken kundenbezogene Ideen generiert und zu marktreifen Produkten und Dienstleistungen weiterentwickelt werden können. Der Workshop kann sowohl in Oldenburg, als auch in Wilhelmshaven stattfinden.
+Typ: Beratung
+Standort: Oldenburg
+__________________________
+|Workshop - Mit Datenanalyse zum digitalen Geschäftsmodell|
+Beschreibung: Dieser Workshop vermittelt, wie sich durch Sammlung und Auswertung von Daten digitale Geschäftsmodelle entwickeln lassen. Zudem werden strategische Visualisierungsmethoden angewendet. Der Workshop kann sowohl in Oldenburg, als auch in Wilhelmshaven stattfinden.
+Typ: Beratung
+Standort: Oldenburg
+__________________________
+|Zeiss EM 900N Transmissionselektronenmikroskop|
+Beschreibung: Mit der Elektronenmikroskopie lassen sich Strukturen bis in den Nanometerbereich visualisieren. Das Zeiss EM 900N Transmissionselektronenmikroskop ist Teil der Elektronenmikroskopie Serviceeinheit der Universität Oldenburg.
+Typ: Gerät
+Standort: Oldenburg
+__________________________
+|Zertifikatsweiterbildung: Bio-psycho-sozial betriebliches Gesundheitsmanagement|
+Beschreibung: Diese Zertifikatsweiterbildung ermöglicht Ihnen den Aufbau eines systematischen BGM auf Grundlage der Bio-Psychologie.
+Typ: Schulung
+Wo: Zentrum für Weiterbildung in Emden
+__________________________
+|Zertifikatsweiterbildung: Kompetente Führung – Kompetente Leitung zur beruflichen Professionalität|
+Beschreibung: Mit dieser Zertifikatsweiterbildung erweitern Sie vorhandene Kenntnisse im Bereich der Führung und Leitung.
+Typ: Schulung
+Wo: Zentrum für Weiterbildung in Emden
+Wann: Nach Vorankündigung oder vorheriger Absprache
+__________________________
+|eMIR - e-Maritime Integrated Reference Platform #LivingLab|
+Beschreibung: eMIR ist ein maritimes Testfeld zur Erprobung von Technologien für die maritime Sicherheit unter virtuellen und realen Bedingungen. Die Plattform bietet Möglichkeiten für Simulation und Datenanalyse rund um das Thema automatisierte und autonome Schifffahrt.
+Typ: Labor
+Standort: Oldenburg
