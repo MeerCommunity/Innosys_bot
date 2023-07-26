@@ -52,8 +52,11 @@ statistics_system_prompt = '''Du bist ein Guide für Angebote vom Projekt InnoSy
 Beschreibung:...
 Typ:...
 Standort bzw. Wo:...
+'''
+#"Wenn du meinst, dass ein Angebot zu der Anfrage des Nutzers passt, schreibe es auf inklusive der Beschreibung. Wenn kein Angebot zu der Anfrage passen sollte, versuche die Frage nicht weiter zu beantworten. Hier sind die Angebote: "
 
-Wenn du meinst, dass ein Angebot zu der Anfrage des Nutzers passt, schreibe es auf inklusive der Beschreibung. Wenn keine Informationen zu der Anfrage im Text sind, versuche die Frage nicht weiter zu beantworten. Hier sind die Angebote: '''
+
+
 
 statements = ["Ich habe mein Unternehmen gegründet, weil: ", "Mein Unternehmen bietet folgende Produkte oder Dienstleistungen an: ", "Ich spreche mit meinem Angebot folgende Zielgruppe an: ", "Mein Unternehmen unterscheidet sich von anderen in der Branche durch: ", "Meine Ziele für die nächsten fünf Jahre sind: "]
 welcome_msg = "Hallo! Ich bin der Innosys Bot, der Ihnen dabei helfen wird, die passendsten Angebote für Ihr Unternehmen und die Herausforderungen der Branche zu finden. Beantworten Sie einfach meine Fragen. Desto genauer Sie antworten, desto besser werden meine Vorschäge sein. "
@@ -153,9 +156,10 @@ def ask_question(query, angebote):
     #for reference in references:
         #tokens = len(tokenizer.encode(reference))
         #print(tokens)
+    add_to_user_query = "Hier sind alle Angebote von Innosys Nordwest: " + angebote + "Welche Angebote passen zu mir, basierend auf der folgenden Beschreibung: "
     messages = [
-        {"role": "system", "content": f"{statistics_system_prompt} {angebote}. Beziehe dich ausschließlich auf die Angebote bei der Beantwortung der Fragen. Wenn du Angebote findest schreibe sie in Stichpunkten auf und erwähne immer den Titel indem du es in diesem Stil kennzeichnest |...|. Die drei Punkte repräsentieren das jeweilige Label."},
-        {"role": "user", "content":  query}
+        {"role": "system", "content": f"{statistics_system_prompt} . Beziehe dich ausschließlich auf die Angebote bei der Beantwortung der Fragen. Wenn du Angebote findest schreibe sie in Stichpunkten auf und erwähne immer den Titel indem du es in diesem Stil kennzeichnest |...|. Die drei Punkte repräsentieren das jeweilige Label."},
+        {"role": "user", "content":  add_to_user_query + query}
     ]
 
     chat = openai.ChatCompletion.create(
