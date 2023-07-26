@@ -68,6 +68,21 @@ statements = ["Ich habe mein Unternehmen gegründet, weil: ", "Mein Unternehmen 
 welcome_msg = "Hallo! Ich bin der Innosys Bot, der Ihnen dabei helfen wird, die passendsten Angebote für Ihr Unternehmen und die Herausforderungen der Branche zu finden. Beantworten Sie einfach meine Fragen. Desto genauer Sie antworten, desto besser werden meine Vorschäge sein. "
 result_msg = "Danke für Ihre Zeit! Hier sind Ihre Antworten: \n"
 
+def generate_summary(query, answers):
+    messages = [
+        {"role": "system", "content": f"{summary_answer_prompt} {query}"},
+        {"role": "user", "content": answers}
+    ]
+
+    chat = openai.ChatCompletion.create(
+        model="gpt-3.5-turbo",
+        messages=messages
+    )
+
+    ai_response_final = chat.choices[0].message.content
+
+    return ai_response_final
+
 def chat_message_style(message, is_user=False, col = coly_top): 
     global counter  # Zählervariable deklarieren
     if is_user or counter % 2 == 0: 
@@ -212,7 +227,8 @@ Wenn du meinst, dass ein Angebot zu meiner Beschreibung passt, extrahiere den Ti
     disclaimer = "WICHTIG: Beziehe dich ausschließlich auf die Angebote bei der Beantwortung der Fragen."
     messages = [
         {"role": "system", "content": f"{statistics_system_prompt}Referenzen: {reference}Beziehe dich ausschließlich auf die Referenzen bei der Beantwortung der Fragen. Wenn du Angebote findest schreibe sie in Stichpunkten auf und erwähne immer den Titel indem du ihn in diesem Stil kennzeichnest |...|. Die drei Punkte repräsentieren den jeweiligen Titel."},
-        {"role": "user", "content":  statistics_user_prompt + query + "Hier ist der Text 'Angebote': "+ angebote + disclaimer }
+        {"role": "user", "content":  query }
+	#{"role": "user", "content":  statistics_user_prompt + query + "Hier ist der Text 'Angebote': "+ angebote + disclaimer }
     ]
 
     chat = openai.ChatCompletion.create(
@@ -229,8 +245,9 @@ Wenn du meinst, dass ein Angebot zu meiner Beschreibung passt, extrahiere den Ti
     print("________________")
 
     #return answer_list
-    final_response = narrowing_it_down(query, ai_response)
-    return ai_response, final_response
+    summary_response = generate_summary(query, ai_response)
+    #final_response = narrowing_it_down(query, ai_response)
+    return ai_response, summary_response
 
 q_index = st.session_state.get("q_index", 1)
 
