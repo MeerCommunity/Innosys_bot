@@ -155,42 +155,6 @@ def generate_answer():
     output = ai_response
     return output
 
-def ask_question(query, angebote):
-    #answer_list = []
-    #for reference in references:
-        #tokens = len(tokenizer.encode(reference))
-        #print(tokens)
-    initial_prompt = "Du bist ein Guide für die Angebote von InnoSys Nordwest. Du sollst basierend auf den Eingaben des Nutzers, herausfinden von welchen Angeboten der Nutzer am meisten profitiert."
-    add_to_user_query = "Welche Angebote passen zu mir, basierend auf der folgenden Beschreibung: "
-    statistics_user_prompt = '''Ich gebe dir eine Beschreibung meiner Situation. Basierend auf dieser Beschreibung gehst, du den Text "Angebote" Angebot für Angebot durch. Angebote sind durch ___________________ getrennt. Ein Angebot hat folgendes Format:
-|Titel|
-Beschreibung:...
-Typ:...
-Standort bzw. Wo:...
-Wenn du meinst, dass ein Angebot zu meiner Beschreibung passt, extrahiere den Titel. Wenn du alle Angebote durchgegangen bist, präsentiere mir die Angebote, die du extrahiert hast in Stichpunkten, mit einer Begründung warum das Angebot zu mir passt. Wenn kein Angebot zu mir passen sollte, sag es mir. Hier ist meine Beschreibung: '''
-
-    disclaimer = "WICHTIG: Beziehe dich ausschließlich auf die Angebote bei der Beantwortung der Fragen."
-    messages = [
-        {"role": "system", "content": initial_prompt },
-        {"role": "user", "content":  statistics_user_prompt + query + "Hier ist der Text 'Angebote': "+ angebote + disclaimer }
-    ]
-
-    chat = openai.ChatCompletion.create(
-        model="gpt-3.5-turbo-16k",
-        messages=messages,
-        temperature=0.2
-    )
-
-    ai_response = chat.choices[0].message.content
-    #answer_list.append("Antwort: " + ai_response)
-    print("Hier ist die Antwort: ")
-    print(ai_response)
-    print("\n")
-    print("________________")
-
-    #return answer_list
-    return ai_response
-
 def narrowing_it_down(query, text):
     print("BEschreibung: " + query)
     print("Referenz: " + text)
@@ -229,6 +193,43 @@ Wenn du meinst, dass ein Angebot zu meiner Beschreibung passt, extrahiere den Ti
     #return answer_list
     return ai_response
 
+def ask_question(query, angebote):
+    #answer_list = []
+    #for reference in references:
+        #tokens = len(tokenizer.encode(reference))
+        #print(tokens)
+    initial_prompt = "Du bist ein Guide für die Angebote von InnoSys Nordwest. Du sollst basierend auf den Eingaben des Nutzers, herausfinden von welchen Angeboten der Nutzer am meisten profitiert."
+    add_to_user_query = "Welche Angebote passen zu mir, basierend auf der folgenden Beschreibung: "
+    statistics_user_prompt = '''Ich gebe dir eine Beschreibung meiner Situation. Basierend auf dieser Beschreibung gehst, du den Text "Angebote" Angebot für Angebot durch. Angebote sind durch ___________________ getrennt. Ein Angebot hat folgendes Format:
+|Titel|
+Beschreibung:...
+Typ:...
+Standort bzw. Wo:...
+Wenn du meinst, dass ein Angebot zu meiner Beschreibung passt, extrahiere den Titel. Wenn du alle Angebote durchgegangen bist, präsentiere mir die Angebote, die du extrahiert hast in Stichpunkten, mit einer Begründung warum das Angebot zu mir passt. Wenn kein Angebot zu mir passen sollte, sag es mir. Hier ist meine Beschreibung: '''
+
+    disclaimer = "WICHTIG: Beziehe dich ausschließlich auf die Angebote bei der Beantwortung der Fragen."
+    messages = [
+        {"role": "system", "content": initial_prompt },
+        {"role": "user", "content":  statistics_user_prompt + query + "Hier ist der Text 'Angebote': "+ angebote + disclaimer }
+    ]
+
+    chat = openai.ChatCompletion.create(
+        model="gpt-3.5-turbo-16k",
+        messages=messages,
+        temperature=0.2
+    )
+
+    ai_response = chat.choices[0].message.content
+    #answer_list.append("Antwort: " + ai_response)
+    print("Hier ist die Antwort: ")
+    print(ai_response)
+    print("\n")
+    print("________________")
+
+    #return answer_list
+    final_response = narrowing_it_down(query, ai_response)
+    return ai_response, final_response
+
 q_index = st.session_state.get("q_index", 1)
 
 
@@ -259,12 +260,12 @@ if __name__== '__main__':
         #st.write(generate_answer())
         #result = generate_answer()
         #result = turn_to_statements()
-        result = ask_question(user_input_str, alle_angebote)
+        result, final = ask_question(user_input_str, alle_angebote)
 	#st.write(result_msg)
 	#st.write(user_input_str)
 	#st.write("Dies sind meine Vorschläge für Sie: ")
         st.write(result_msg + user_input_str + "\n\n Dies sind meine Vorschläge für Sie: \n" + result)
-        final = narrowing_it_down(user_input_str, result)
+        #final = narrowing_it_down(user_input_str, result)
         st.write("Die finale Antwort \n" + final)
         user_input_list = list()
         #for chat in chat_history:
