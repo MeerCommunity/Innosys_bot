@@ -293,7 +293,7 @@ if __name__== '__main__':
 	#st.write(user_input_str)
 	#st.write("Dies sind meine Vorschläge für Sie: ")
         list_of_entries = find_and_append()
-        if len(list_of_entries) = 0:
+        if len(list_of_entries) == 0:
 		print("Ich konnte keine passenden Anngebote finden")
 		user_input_list = list()
 		return
