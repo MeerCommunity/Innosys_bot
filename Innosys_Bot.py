@@ -296,7 +296,6 @@ if __name__== '__main__':
         if len(list_of_entries) == 0:
             print("Ich konnte keine passenden Anngebote finden")
             user_input_list = list()
-            return
         else:
             st.write(result_msg + user_input_str + "\n\n Dies sind meine Vorschläge für Sie: \n" + result)
             #final = narrowing_it_down(user_input_str, result)
