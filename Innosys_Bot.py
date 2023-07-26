@@ -204,7 +204,7 @@ if __name__== '__main__':
         chat_history.append(user_input)
         st.session_state["chat_history"] = chat_history
         st.session_state["user_input_saved"] = user_input_saved
-	user_input_str = ' '.join(user_input_saved)
+        user_input_str = ' '.join(user_input_saved)
         #st.write(generate_answer())
         #result = generate_answer()
         #result = turn_to_statements()
