@@ -212,7 +212,7 @@ if __name__== '__main__':
         chat_history.append(user_input)
         chat_history.append(questions[q_index])
         
-        Debug.Log(q_index) 
+        #Debug.Log(q_index) 
         q_index += 1
 	
         st.session_state["q_index"] = q_index  # aktualisierten Wert im Session State speichern
