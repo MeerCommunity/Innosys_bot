@@ -162,7 +162,7 @@ def narrowing_it_down(query, text):
     #for reference in references:
         #tokens = len(tokenizer.encode(reference))
         #print(tokens)
-    initial_prompt = "Du bist ein Guide für die Angebote von InnoSys Nordwest. Du sollst basierend auf den Eingaben des Nutzers, herausfinden von welchen Angeboten der Nutzer am meisten profitiert."
+    initial_prompt = "Du bist ein hilfreicher Assistent, der Texte basierend auf einer Beschreibung zusammenfasst."
     add_to_user_query = "Welche Angebote passen zu mir, basierend auf der folgenden Beschreibung: "
     statistics_user_prompt = '''Ich gebe dir eine Beschreibung meiner Situation. Basierend auf dieser Beschreibung gehst, du den Text "Angebote" Angebot für Angebot durch. Angebote sind durch ___________________ getrennt. Ein Angebot hat folgendes Format:
 |Titel|
