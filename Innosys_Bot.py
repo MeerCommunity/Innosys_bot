@@ -202,7 +202,7 @@ if __name__== '__main__':
         #result = generate_answer()
         #result = turn_to_statements()
         result = ask_question(user_input_str, alle_angebote)
-	st.write(result_msg)
+	#st.write(result_msg)
 	st.write(user_input_str)
 	st.write("Dies sind meine Vorschläge für Sie: ")
         st.write(result)
