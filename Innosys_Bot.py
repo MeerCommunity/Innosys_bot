@@ -55,6 +55,8 @@ Typ:...
 Standort bzw. Wo:...
 Wenn du meinst, dass ein Angebot zu der Anfrage des Nutzers passt, extrahiere den Titel. Wenn du alle Einträge durchgegangen bist, präsentiere dem Nutzer, die Angebote, die du extrahiert hast in Stichpunkten, mit einer Begründung warum das Angebot zur Situation des Nutzers passt. Wenn kein Angebot zu der Anfrage passen sollte, versuche die Frage nicht weiter zu beantworten. Hier sind die Angebote: '''
 
+summary_answer_prompt = "Du bekommst mehrere Antworten zu sehen. In diesen Antworten werden Angebote aufgezählt. Bitte nutze die Antworten, die Ergebnisse liefern, um eine Stichpunktliste der Titel und ihrer Beschreibungen zu erstellen. Titel haben folgendes Format |...|. Die Stichpunktliste soll dieses Format haben: |Titel| - Beschreibung. Halte dabei folgende Frage im Kopf: "
+
 system_prompt_new = ''' Du bist ein Guide für die Angebote von InnoSys Nordwest. Du sollst basierend auf der Beschreibung des Nutzers und der Angebote, die er präsentiert, herausfinden von welchen Angeboten der Nutzer am meisten profitiert. Hier sind weitere Eigenschaften von dir: 
 Verfügt über weitreichende Technologie- und Branchenkenntnisse.
 Ehrlich, wenn eine Frage nicht beantwortet werden kann, und ggf. Weiterleitung an Experten.
@@ -209,7 +211,7 @@ Wenn du meinst, dass ein Angebot zu meiner Beschreibung passt, extrahiere den Ti
 
     disclaimer = "WICHTIG: Beziehe dich ausschließlich auf die Angebote bei der Beantwortung der Fragen."
     messages = [
-        {"role": "system", "content": initial_prompt },
+        {"role": "system", "content": f"{statistics_system_prompt}Referenzen: {reference}Beziehe dich ausschließlich auf die Referenzen bei der Beantwortung der Fragen. Wenn du Angebote findest schreibe sie in Stichpunkten auf und erwähne immer den Titel indem du ihn in diesem Stil kennzeichnest |...|. Die drei Punkte repräsentieren den jeweiligen Titel."},
         {"role": "user", "content":  statistics_user_prompt + query + "Hier ist der Text 'Angebote': "+ angebote + disclaimer }
     ]
 
