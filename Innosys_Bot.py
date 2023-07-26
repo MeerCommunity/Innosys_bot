@@ -156,16 +156,25 @@ def ask_question(query, angebote):
     #for reference in references:
         #tokens = len(tokenizer.encode(reference))
         #print(tokens)
-    add_to_user_query = "Hier sind alle Angebote von Innosys Nordwest: " + angebote + "Welche Angebote passen zu mir, basierend auf der folgenden Beschreibung: "
+    initial_prompt = "Du bist ein Guide für die Angebote von InnoSys Nordwest. Du sollst basierend auf den Eingaben des Nutzers, herausfinden von welchen Angeboten der Nutzer am meisten profitiert."
+    add_to_user_query = "Welche Angebote passen zu mir, basierend auf der folgenden Beschreibung: "
+    statistics_user_prompt = '''Ich gebe dir eine Beschreibung meiner Situation. Basierend auf dieser Beschreibung gehst, du den Text "Angebote" Angebot für Angebot durch. Angebote sind durch ___________________ getrennt. Ein Angebot hat folgendes Format:
+|Titel|
+Beschreibung:...
+Typ:...
+Standort bzw. Wo:...
+Wenn du meinst, dass ein Angebot zu meiner Beschreibung passt, extrahiere den Titel. Wenn du alle Angebote durchgegangen bist, präsentiere mir die Angebote, die du extrahiert hast in Stichpunkten, mit einer Begründung warum das Angebot zu mir passt. Wenn kein Angebot zu mir passen sollte, sag es mir. Hier ist meine Beschreibung: '''
+
+    disclaimer = "WICHTIG: Beziehe dich ausschließlich auf die Angebote bei der Beantwortung der Fragen."
     messages = [
-        {"role": "system", "content": f"{statistics_system_prompt} {angebote} . WICHTIG: Beziehe dich ausschließlich auf die Angebote bei der Beantwortung der Fragen. Wenn du Angebote findest schreibe sie in Stichpunkten auf und erwähne immer den Titel indem du es in diesem Stil kennzeichnest |...|. Die drei Punkte repräsentieren den jeweiligen Titel."},
-        {"role": "user", "content":  query + " Beziehe dich bei der Antwort ausschließlich auf die vorhandenen Angebote."}
+        {"role": "system", "content": initial_prompt },
+        {"role": "user", "content":  statistics_user_prompt + query + Hier ist der Text "Angebote": + angebote + dsiclaimer }
     ]
 
     chat = openai.ChatCompletion.create(
         model="gpt-3.5-turbo-16k",
         messages=messages,
-        temperature=0.7
+        temperature=0.2
     )
 
     ai_response = chat.choices[0].message.content
