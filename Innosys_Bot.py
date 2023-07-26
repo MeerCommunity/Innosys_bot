@@ -159,7 +159,7 @@ def ask_question(query, angebote):
     add_to_user_query = "Hier sind alle Angebote von Innosys Nordwest: " + angebote + "Welche Angebote passen zu mir, basierend auf der folgenden Beschreibung: "
     messages = [
         {"role": "system", "content": f"{statistics_system_prompt} {angebote} . WICHTIG: Beziehe dich ausschließlich auf die Angebote bei der Beantwortung der Fragen. Wenn du Angebote findest schreibe sie in Stichpunkten auf und erwähne immer den Titel indem du es in diesem Stil kennzeichnest |...|. Die drei Punkte repräsentieren den jeweiligen Titel."},
-        {"role": "user", "content":  query}
+        {"role": "user", "content":  query + " Beziehe dich bei der Antwort ausschließlich auf die vorhandenen Angebote."}
     ]
 
     chat = openai.ChatCompletion.create(
