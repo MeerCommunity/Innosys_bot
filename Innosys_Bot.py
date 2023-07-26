@@ -207,7 +207,7 @@ if __name__== '__main__':
         #for chat in chat_history:
             #chat_message_style(chat)
 
-    if send_button and q_index <= 0:
+    if send_button and q_index <= 2:
         user_input_list.append(user_input)
         chat_history.append(user_input)
         chat_history.append(questions[q_index])
