@@ -200,10 +200,10 @@ if __name__== '__main__':
 
     if send_button and q_index == 3:
         user_input_saved.append(user_input)
-        user_input_str = ' '.join(user_input_list)
+        user_input_str = ' '.join(user_input_saved)
         chat_history.append(user_input)
         st.session_state["chat_history"] = chat_history
-	st.session_state["user_input_saved"] = user_input_saved
+        st.session_state["user_input_saved"] = user_input_saved
 	user_input_str = ' '.join(user_input_saved)
         #st.write(generate_answer())
         #result = generate_answer()
