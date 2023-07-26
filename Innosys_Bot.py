@@ -295,10 +295,9 @@ if __name__== '__main__':
         list_of_entries = find_and_append()
         if len(list_of_entries) == 0:
             print("Ich konnte keine passenden Anngebote finden")
-	    user_input_list = list()
-	    return
+            user_input_list = list()
+            return
 	else:
-		
             st.write(result_msg + user_input_str + "\n\n Dies sind meine Vorschläge für Sie: \n" + result)
             #final = narrowing_it_down(user_input_str, result)
             st.write("Die finale Antwort \n" + final)
