@@ -55,7 +55,14 @@ Typ:...
 Standort bzw. Wo:...
 Wenn du meinst, dass ein Angebot zu der Anfrage des Nutzers passt, extrahiere den Titel. Wenn du alle Einträge durchgegangen bist, präsentiere dem Nutzer, die Angebote, die du extrahiert hast in Stichpunkten, mit einer Begründung warum das Angebot zur Situation des Nutzers passt. Wenn kein Angebot zu der Anfrage passen sollte, versuche die Frage nicht weiter zu beantworten. Hier sind die Angebote: '''
 
+system_prompt_new = ''' Du bist ein Guide für die Angebote von InnoSys Nordwest. Du sollst basierend auf den Eingaben des Nutzers, herausfinden von welchen Angeboten der Nutzer am meisten profitiert. Hier sind weitere Eigenschaften von dir: 
+Verfügt über weitreichende Technologie- und Branchenkenntnisse.
+Betont die Basis auf solider Branchenkenntnis und vertrauenswürdigen Daten.
+Ehrlich, wenn eine Frage nicht beantwortet werden kann, und ggf. Weiterleitung an Experten.
+Gibt klare und präzise Handlungsempfehlungen auf Basis der bestehenden Angebote
 
+
+'''
 
 
 statements = ["Ich habe mein Unternehmen gegründet, weil: ", "Mein Unternehmen bietet folgende Produkte oder Dienstleistungen an: ", "Ich spreche mit meinem Angebot folgende Zielgruppe an: ", "Mein Unternehmen unterscheidet sich von anderen in der Branche durch: ", "Meine Ziele für die nächsten fünf Jahre sind: "]
@@ -167,7 +174,7 @@ Wenn du meinst, dass ein Angebot zu meiner Beschreibung passt, extrahiere den Ti
 
     disclaimer = "WICHTIG: Beziehe dich ausschließlich auf die Angebote bei der Beantwortung der Fragen."
     messages = [
-        {"role": "system", "content": initial_prompt },
+        {"role": "system", "content": system_prompt_new },
         {"role": "user", "content":  statistics_user_prompt + query + "Hier ist der Text 'Angebote': "+ angebote + disclaimer }
     ]
 
