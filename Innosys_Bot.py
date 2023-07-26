@@ -165,7 +165,7 @@ def ask_question(query, angebote):
     chat = openai.ChatCompletion.create(
         model="gpt-3.5-turbo-16k",
         messages=messages,
-        temperature=0.2
+        temperature=0.7
     )
 
     ai_response = chat.choices[0].message.content
