@@ -210,7 +210,7 @@ Wenn du meinst, dass ein Angebot zu meiner Beschreibung passt, extrahiere den Ti
     #return answer_list
     return ai_response
 
-def find_and_append(values = values, possible_values = possible_values):
+def find_and_append(values, possible_values = possible_values):
     final = list()
     for item in values:
         if item in possible_values:
@@ -292,7 +292,7 @@ if __name__== '__main__':
 	#st.write(result_msg)
 	#st.write(user_input_str)
 	#st.write("Dies sind meine Vorschläge für Sie: ")
-        list_of_entries = find_and_append()
+        list_of_entries = find_and_append(values)
         if len(list_of_entries) == 0:
             print("Ich konnte keine passenden Anngebote finden")
             user_input_list = list()
