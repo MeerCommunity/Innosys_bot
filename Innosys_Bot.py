@@ -57,7 +57,7 @@ Wenn du meinst, dass ein Angebot zu der Anfrage des Nutzers passt, schreibe es a
 
 statements = ["Ich habe mein Unternehmen gegründet, weil: ", "Mein Unternehmen bietet folgende Produkte oder Dienstleistungen an: ", "Ich spreche mit meinem Angebot folgende Zielgruppe an: ", "Mein Unternehmen unterscheidet sich von anderen in der Branche durch: ", "Meine Ziele für die nächsten fünf Jahre sind: "]
 welcome_msg = "Hallo! Ich bin der Innosys Bot, der Ihnen dabei helfen wird, die passendsten Angebote für Ihr Unternehmen und die Herausforderungen der Branche zu finden. Beantworten Sie einfach meine Fragen. Desto genauer Sie antworten, desto besser werden meine Vorschäge sein. "
-
+result_msg = "Danke für Ihre Zeit! Hier sind Ihre Antworten: "
 
 def chat_message_style(message, is_user=False, col = coly_top): 
     global counter  # Zählervariable deklarieren
@@ -202,6 +202,9 @@ if __name__== '__main__':
         #result = generate_answer()
         #result = turn_to_statements()
         result = ask_question(user_input_str, alle_angebote)
+	st.write(result_msg)
+	st.write(user_input_str)
+	st.write("Dies sind meine Vorschläge für Sie: ")
         st.write(result)
         user_input_list = list()
         #for chat in chat_history:
